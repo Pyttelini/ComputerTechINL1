@@ -1564,3 +1564,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.26-12.15.51:927][622]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.05.26-12.15.54:764][631]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 3.1Mb total, 0.1Mb always loaded, 94% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.05.26-12.15.55:835][634]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.05.26-12.15.56:911][637]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.05.26-12.15.58:162][641]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.05.26-12.15.59:253][644]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
