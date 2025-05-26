@@ -1627,3 +1627,785 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.26-12.20.54:577][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 330.191315, Update Interval: 306.971039
 [2025.05.26-12.22.39:320][ 18]LogSlate: Window 'Save Level As' being destroyed
 [2025.05.26-12.22.39:394][ 22]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1'
+[2025.05.26-12.24.04:460][401]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.05.26-12.25.28:010][261]LogSlate: Took 0.008128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.26-12.26.04:678][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 640.624023
+[2025.05.26-12.26.05:680][884]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-12.26.05:680][884]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 641.290710, Update Interval: 336.138794
+[2025.05.26-12.29.18:645][117]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2025.05.26-12.29.18:645][117]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2025.05.26-12.29.18:648][117]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_0
+[2025.05.26-12.29.18:649][117]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_0
+[2025.05.26-12.29.19:144][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.26-12.29.19:147][143]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2025.05.26-12.29.19:154][143]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2025.05.26-12.29.19:154][143]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2025.05.26-12.29.19:163][143]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_88A4C2DD7A6E086C02_1140656951
+[2025.05.26-12.29.19:163][143]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_88A4C2DD7A6E086C02_1140656951
+[2025.05.26-12.29.19:244][144]SourceControl: Error: fatal: Invalid path '/Temp/__ExternalActors__': No such file or directory
+[2025.05.26-12.29.19:330][145]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1'
+[2025.05.26-12.29.20:278][201]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1'
+[2025.05.26-12.29.32:669][788]LogSlate: Window 'Save Level As' being destroyed
+[2025.05.26-12.29.32:747][792]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1'
+[2025.05.26-12.29.38:921][970]LogSlate: Window 'Save Level As' being destroyed
+[2025.05.26-12.29.38:993][974]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1'
+[2025.05.26-12.29.39:855][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.26-12.29.42:092][ 19]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-12.29.42:199][ 19]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1'
+[2025.05.26-12.29.42:208][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-12.29.49:444][ 19]LogSlate: Window 'Save Level As' being destroyed
+[2025.05.26-12.29.49:531][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.26-12.29.49:557][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.26-12.29.49:568][ 19]LogSavePackage: Moving output files for package: /Game/MainMap
+[2025.05.26-12.29.49:568][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/MainMapD8A1118A49E37BD7855E8ABA5E32F16D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/MainMap.umap'
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:645][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:646][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/F/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalActors__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:647][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:648][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/F/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/E/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/F/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/9/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/B/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/4/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/D/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:649][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/7/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/C/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/1/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/6/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/0/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/8/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/5/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/3/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/A/': No such file or directory
+[2025.05.26-12.30.02:650][ 19]SourceControl: Error: warning: could not open directory 'CTINL1/Content/__ExternalObjects__/MainMap/2/': No such file or directory
+[2025.05.26-12.30.02:696][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-12.30.02:737][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.05.26-12.30.02:750][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.26-12.30.02:761][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-12.30.02:762][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMap_HLOD0_Instancing] ([1] browsable assets)...
+[2025.05.26-12.30.02:762][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMap_HLOD0_Instancing]
+[2025.05.26-12.30.02:762][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_HLOD0_Instancing" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/MainMap_HLOD0_Instancing.uasset" SILENT=true
+[2025.05.26-12.30.02:764][ 19]LogSavePackage: Moving output files for package: /Game/MainMap_HLOD0_Instancing
+[2025.05.26-12.30.02:764][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/MainMap_HLOD0_Instancing82F769D541DB7090428C538C795FE478.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/MainMap_HLOD0_Instancing.uasset'
+[2025.05.26-12.30.02:767][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/5G/I7GAJX54CXA97U2SVBTKPG
+[2025.05.26-12.30.02:767][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/I7GAJX54CXA97U2SVBTKPGD5CC133944EA1D230513D69760793CC7.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/5G/I7GAJX54CXA97U2SVBTKPG.uasset'
+[2025.05.26-12.30.02:770][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/MainMap/6/7D/121BJL2C778K1YCKKE6UW4] ([1] browsable assets)...
+[2025.05.26-12.30.02:770][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/MainMap/6/7D/121BJL2C778K1YCKKE6UW4]
+[2025.05.26-12.30.02:771][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MainMap/6/7D/121BJL2C778K1YCKKE6UW4
+[2025.05.26-12.30.02:771][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/121BJL2C778K1YCKKE6UW472B1D06948ACCBDDB994B59A87BD851C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalObjects__/MainMap/6/7D/121BJL2C778K1YCKKE6UW4.uasset'
+[2025.05.26-12.30.02:773][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/MainMap/2/5V/9QB6K9D49QR6ODKWMBF93Y] ([1] browsable assets)...
+[2025.05.26-12.30.02:773][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/MainMap/2/5V/9QB6K9D49QR6ODKWMBF93Y]
+[2025.05.26-12.30.02:773][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MainMap/2/5V/9QB6K9D49QR6ODKWMBF93Y
+[2025.05.26-12.30.02:773][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/9QB6K9D49QR6ODKWMBF93Y5803C09F48044B732B2E3DAF7ECBEE4B.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalObjects__/MainMap/2/5V/9QB6K9D49QR6ODKWMBF93Y.uasset'
+[2025.05.26-12.30.02:776][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/MainMap/9/2V/2G1JU9QII7ITV6MK3KPSXE] ([1] browsable assets)...
+[2025.05.26-12.30.02:776][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/MainMap/9/2V/2G1JU9QII7ITV6MK3KPSXE]
+[2025.05.26-12.30.02:776][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MainMap/9/2V/2G1JU9QII7ITV6MK3KPSXE
+[2025.05.26-12.30.02:776][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/2G1JU9QII7ITV6MK3KPSXEACB2CC1B4AFDD0270D245585EB5A8781.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalObjects__/MainMap/9/2V/2G1JU9QII7ITV6MK3KPSXE.uasset'
+[2025.05.26-12.30.02:778][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/MainMap/7/14/JP68A2Z1DD1I1BYMYOORI6] ([1] browsable assets)...
+[2025.05.26-12.30.02:778][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/MainMap/7/14/JP68A2Z1DD1I1BYMYOORI6]
+[2025.05.26-12.30.02:778][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MainMap/7/14/JP68A2Z1DD1I1BYMYOORI6
+[2025.05.26-12.30.02:778][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/JP68A2Z1DD1I1BYMYOORI6C429EA7F47000DE3E68F3DBA98BE7C2D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalObjects__/MainMap/7/14/JP68A2Z1DD1I1BYMYOORI6.uasset'
+[2025.05.26-12.30.02:781][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/MainMap/8/W0/FWLOF8KN7RCRSALYP5BZCS] ([1] browsable assets)...
+[2025.05.26-12.30.02:781][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/MainMap/8/W0/FWLOF8KN7RCRSALYP5BZCS]
+[2025.05.26-12.30.02:782][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MainMap/8/W0/FWLOF8KN7RCRSALYP5BZCS
+[2025.05.26-12.30.02:782][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/FWLOF8KN7RCRSALYP5BZCS4331DEAB494422366185A2BE1214CCDD.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalObjects__/MainMap/8/W0/FWLOF8KN7RCRSALYP5BZCS.uasset'
+[2025.05.26-12.30.02:783][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/MainMap/6/91/PBSAVLP5732I06WAON5E2Q] ([1] browsable assets)...
+[2025.05.26-12.30.02:783][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/MainMap/6/91/PBSAVLP5732I06WAON5E2Q]
+[2025.05.26-12.30.02:784][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MainMap/6/91/PBSAVLP5732I06WAON5E2Q
+[2025.05.26-12.30.02:784][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PBSAVLP5732I06WAON5E2Q4C06012149E5D3A42133299CC3399C29.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalObjects__/MainMap/6/91/PBSAVLP5732I06WAON5E2Q.uasset'
+[2025.05.26-12.30.02:852][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/IG/MBZN10F2LA69V3S1AAWDNU
+[2025.05.26-12.30.02:852][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/MBZN10F2LA69V3S1AAWDNU6C0CE95C42E22C5D89A646AE6114116F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/3/IG/MBZN10F2LA69V3S1AAWDNU.uasset'
+[2025.05.26-12.30.02:856][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/0K/U26MT8II0GJ1NDOGHCJGGM
+[2025.05.26-12.30.02:856][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/U26MT8II0GJ1NDOGHCJGGMBF7181F64A761A9B6648559AA41CC4AC.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/0K/U26MT8II0GJ1NDOGHCJGGM.uasset'
+[2025.05.26-12.30.02:859][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/3B/6B95QCJ6CBA3C9TUH0QM0I
+[2025.05.26-12.30.02:859][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/6B95QCJ6CBA3C9TUH0QM0IC51C56AC466160CC11467D881EB95EA4.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/2/3B/6B95QCJ6CBA3C9TUH0QM0I.uasset'
+[2025.05.26-12.30.02:862][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/7K/AALPXM0X7MJT0OZFD4FRAH
+[2025.05.26-12.30.02:862][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/AALPXM0X7MJT0OZFD4FRAH73B6B0224AF99BB42ECCC795CA2BED20.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/7K/AALPXM0X7MJT0OZFD4FRAH.uasset'
+[2025.05.26-12.30.02:865][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/D1/GAUUZJJOYFFZ95S3JLPVJ1
+[2025.05.26-12.30.02:865][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/GAUUZJJOYFFZ95S3JLPVJ1E65EB4F14FA2404E94A6DAA182E48BBE.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/D1/GAUUZJJOYFFZ95S3JLPVJ1.uasset'
+[2025.05.26-12.30.02:868][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/98/WSD1VZ53KKH4KIQQA82Y1I
+[2025.05.26-12.30.02:868][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/WSD1VZ53KKH4KIQQA82Y1I673AAE1B4F4343469D3D96AA8477D92F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/98/WSD1VZ53KKH4KIQQA82Y1I.uasset'
+[2025.05.26-12.30.02:870][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/H2/FF5246LZCGK0NO3MYISNE1
+[2025.05.26-12.30.02:870][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/FF5246LZCGK0NO3MYISNE150012D6B46198756AF041AA769FF1E7F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/H2/FF5246LZCGK0NO3MYISNE1.uasset'
+[2025.05.26-12.30.02:874][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/I9/525AQXQV6DTP6NB1O6DAPP
+[2025.05.26-12.30.02:874][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/525AQXQV6DTP6NB1O6DAPP6E5C610848CE741C129E0DA1A7906EAD.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/I9/525AQXQV6DTP6NB1O6DAPP.uasset'
+[2025.05.26-12.30.02:879][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/HM/V4AVA87X9ICA564251C4GE
+[2025.05.26-12.30.02:879][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/V4AVA87X9ICA564251C4GEA9ED716F4ED58D54ECB0EC8D6C3CFE1F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/HM/V4AVA87X9ICA564251C4GE.uasset'
+[2025.05.26-12.30.02:898][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/69/R73W1Y5KJCNLF2JQ3OZ0HJ
+[2025.05.26-12.30.02:898][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/R73W1Y5KJCNLF2JQ3OZ0HJ7FBF8EDA476A07A5FA1A2B9F7D591B26.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/B/69/R73W1Y5KJCNLF2JQ3OZ0HJ.uasset'
+[2025.05.26-12.30.02:914][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/P0/V5MTCPBMBHW0AA7W4YFK9X
+[2025.05.26-12.30.02:914][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/V5MTCPBMBHW0AA7W4YFK9X0DC798374839D59257A3399229C7447A.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/P0/V5MTCPBMBHW0AA7W4YFK9X.uasset'
+[2025.05.26-12.30.02:929][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/Q2/TIEM4OT67BUZCE1XOVHEFS
+[2025.05.26-12.30.02:929][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/TIEM4OT67BUZCE1XOVHEFSAE56C2314E86B6B9190D048A4CE8B3B8.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/3/Q2/TIEM4OT67BUZCE1XOVHEFS.uasset'
+[2025.05.26-12.30.02:945][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/ZM/9USYCN6DMVITAQ2JLXB12F
+[2025.05.26-12.30.02:946][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/9USYCN6DMVITAQ2JLXB12F73152F3D46BF47E8349129AA3A9BD241.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/7/ZM/9USYCN6DMVITAQ2JLXB12F.uasset'
+[2025.05.26-12.30.02:964][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/PJ/84FKHRX5YZIL9FW3W8F1CM
+[2025.05.26-12.30.02:964][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/84FKHRX5YZIL9FW3W8F1CM0E2AEAD94A78BD5F37F2D4BA25AAD0F2.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/PJ/84FKHRX5YZIL9FW3W8F1CM.uasset'
+[2025.05.26-12.30.02:980][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/D1/CXDEXA3JVATWJZ5PBGUAIT
+[2025.05.26-12.30.02:980][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/CXDEXA3JVATWJZ5PBGUAIT53D9BA2C4395A0E5AED2CC92920ED999.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/B/D1/CXDEXA3JVATWJZ5PBGUAIT.uasset'
+[2025.05.26-12.30.02:997][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/SM/NN1VJJTDFVQ5D20L2BEBQN
+[2025.05.26-12.30.02:997][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/NN1VJJTDFVQ5D20L2BEBQNCA044005469913F7128E399429DA0059.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/3/SM/NN1VJJTDFVQ5D20L2BEBQN.uasset'
+[2025.05.26-12.30.03:018][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/MG/4Z7J3CQLSGA8BQACO7FN3F
+[2025.05.26-12.30.03:018][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/4Z7J3CQLSGA8BQACO7FN3F5614FC41413284B1421E5B8F0A43AD94.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/MG/4Z7J3CQLSGA8BQACO7FN3F.uasset'
+[2025.05.26-12.30.03:035][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/IB/0ZZYQA2MSD1SSGPNI0C9CB
+[2025.05.26-12.30.03:035][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/0ZZYQA2MSD1SSGPNI0C9CB76297B81410A5D323FC515ABA65715CA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/IB/0ZZYQA2MSD1SSGPNI0C9CB.uasset'
+[2025.05.26-12.30.03:053][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/R8/B4OTBXNHDU2Q0VFFG2Z2RQ
+[2025.05.26-12.30.03:054][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/B4OTBXNHDU2Q0VFFG2Z2RQ93E34B2E4E3A0D7554792D9C4A9466D1.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/R8/B4OTBXNHDU2Q0VFFG2Z2RQ.uasset'
+[2025.05.26-12.30.03:070][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/NV/X6MO57AI7S6L7KCT39BV7R
+[2025.05.26-12.30.03:070][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/X6MO57AI7S6L7KCT39BV7R3CE86FE449FC4BFE014BFC882A4343FF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/NV/X6MO57AI7S6L7KCT39BV7R.uasset'
+[2025.05.26-12.30.03:086][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/HG/7OZD7D3Q53TOGI5C7JE75Q
+[2025.05.26-12.30.03:086][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7OZD7D3Q53TOGI5C7JE75Q687BB5F04F2DA6C9C85E3590E8E3413C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/HG/7OZD7D3Q53TOGI5C7JE75Q.uasset'
+[2025.05.26-12.30.03:105][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/X0/PHFXXFK57IAUQKKZ0MMCRH
+[2025.05.26-12.30.03:105][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PHFXXFK57IAUQKKZ0MMCRH903C49494C0814B3AB97E39DD2624E74.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/X0/PHFXXFK57IAUQKKZ0MMCRH.uasset'
+[2025.05.26-12.30.03:123][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/7J/06CAH9D709M87O42I7XDCC
+[2025.05.26-12.30.03:123][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/06CAH9D709M87O42I7XDCC911FED3B4504AF5E051C18A88BE6BEA7.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/5/7J/06CAH9D709M87O42I7XDCC.uasset'
+[2025.05.26-12.30.03:141][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/BW/8WE3S6NASO5QO2G9IVQ493
+[2025.05.26-12.30.03:141][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/8WE3S6NASO5QO2G9IVQ493810B9C764818348FF56DB39D71E4956F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/4/BW/8WE3S6NASO5QO2G9IVQ493.uasset'
+[2025.05.26-12.30.03:160][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/ZY/3RQORPNNIJIU3EBNY2YGMH
+[2025.05.26-12.30.03:160][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/3RQORPNNIJIU3EBNY2YGMH0C0A376E422F794FA547D9A8424F58AF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/ZY/3RQORPNNIJIU3EBNY2YGMH.uasset'
+[2025.05.26-12.30.03:178][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/YW/LJOC4WSF5Y7ZFV5BPSJ5VE
+[2025.05.26-12.30.03:178][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/LJOC4WSF5Y7ZFV5BPSJ5VE311BC68F4E7DAE88A16027A9F56390EF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/YW/LJOC4WSF5Y7ZFV5BPSJ5VE.uasset'
+[2025.05.26-12.30.03:196][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/3I/LKO9YRB8FCDEPMI2WCSUWC
+[2025.05.26-12.30.03:196][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/LKO9YRB8FCDEPMI2WCSUWCB598919F4DF994F1BC3FA59A2AEC9C06.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/3I/LKO9YRB8FCDEPMI2WCSUWC.uasset'
+[2025.05.26-12.30.03:214][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/YV/GCP0DST8GQUD8RMLPFQ5ZP
+[2025.05.26-12.30.03:214][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/GCP0DST8GQUD8RMLPFQ5ZP2C2E2C6C481FFED045793D93F2FCAA2F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/YV/GCP0DST8GQUD8RMLPFQ5ZP.uasset'
+[2025.05.26-12.30.03:231][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/N6/V5EDFZCHREECA0SWVCMU4P
+[2025.05.26-12.30.03:231][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/V5EDFZCHREECA0SWVCMU4PA904E81E46DB8C169B0FC5B794642F5C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/N6/V5EDFZCHREECA0SWVCMU4P.uasset'
+[2025.05.26-12.30.03:248][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/NH/2YEOXPS8XO4XLBWW7E722D
+[2025.05.26-12.30.03:248][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/2YEOXPS8XO4XLBWW7E722D3869599E4E07BBFC7EF5DDA92A95F5E1.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/NH/2YEOXPS8XO4XLBWW7E722D.uasset'
+[2025.05.26-12.30.03:266][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/83/W9VAQZ73XAIG7D6T7NCPU4
+[2025.05.26-12.30.03:266][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/W9VAQZ73XAIG7D6T7NCPU4CC2D811A46F2A755BB6C8DB12FFAEF3F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/83/W9VAQZ73XAIG7D6T7NCPU4.uasset'
+[2025.05.26-12.30.03:284][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/69/NXY28E3VZPR3HSJ0K3RV1W
+[2025.05.26-12.30.03:284][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/NXY28E3VZPR3HSJ0K3RV1W752D6C69433BC568671FF8B9606AEB4C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/3/69/NXY28E3VZPR3HSJ0K3RV1W.uasset'
+[2025.05.26-12.30.03:303][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/IH/PGE5A7BGE5P7GIKF4SLVMW
+[2025.05.26-12.30.03:303][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PGE5A7BGE5P7GIKF4SLVMWE3E5C5574DE5F1C1DEEF49BB468C6ED4.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/IH/PGE5A7BGE5P7GIKF4SLVMW.uasset'
+[2025.05.26-12.30.03:320][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/K9/I6658NPQWHWG3659NJM25G
+[2025.05.26-12.30.03:320][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/I6658NPQWHWG3659NJM25GAE08F12F4BBF7D036D20809531678AF2.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/2/K9/I6658NPQWHWG3659NJM25G.uasset'
+[2025.05.26-12.30.03:338][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/ZS/UWOCLUCEBDXKYY90VKSG6I
+[2025.05.26-12.30.03:338][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/UWOCLUCEBDXKYY90VKSG6I56D9FA0E402742572245EC88CA3F1B8E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/3/ZS/UWOCLUCEBDXKYY90VKSG6I.uasset'
+[2025.05.26-12.30.03:354][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/H2/RSU4KNQSXBIWIAUQJ6GDLN
+[2025.05.26-12.30.03:355][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/RSU4KNQSXBIWIAUQJ6GDLN32631FD14C98C17789BB6A9671C6D543.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/6/H2/RSU4KNQSXBIWIAUQJ6GDLN.uasset'
+[2025.05.26-12.30.03:372][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/TB/O6LVBRVI73029KEC4AZ9DV
+[2025.05.26-12.30.03:372][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/O6LVBRVI73029KEC4AZ9DV663C53C244A2EFEFEAF3AFBA4B0F89F7.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/4/TB/O6LVBRVI73029KEC4AZ9DV.uasset'
+[2025.05.26-12.30.03:388][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/HD/ZZ6HXPS5D60NWQNY8JUKGY
+[2025.05.26-12.30.03:388][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/ZZ6HXPS5D60NWQNY8JUKGY64FAA3DB4A6587C19C1054A2C00A1366.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/HD/ZZ6HXPS5D60NWQNY8JUKGY.uasset'
+[2025.05.26-12.30.03:403][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/NU/G7HRLMV3DZ8KTSD61360WC
+[2025.05.26-12.30.03:403][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/G7HRLMV3DZ8KTSD61360WCD6C3CB0D4F45CDE11E58168F6F4B7020.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/7/NU/G7HRLMV3DZ8KTSD61360WC.uasset'
+[2025.05.26-12.30.03:421][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/NI/W94D92CQQX1NLPCSVIWBFC
+[2025.05.26-12.30.03:421][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/W94D92CQQX1NLPCSVIWBFC039669A3413647C61BB4AAB7804DC057.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/NI/W94D92CQQX1NLPCSVIWBFC.uasset'
+[2025.05.26-12.30.03:438][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/9C/08IIX96FJ5T04L2J3857SF
+[2025.05.26-12.30.03:438][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/08IIX96FJ5T04L2J3857SFFF24532B48D48617886AAC9933A6825F.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/9C/08IIX96FJ5T04L2J3857SF.uasset'
+[2025.05.26-12.30.03:455][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/QY/MXA6XIJ5R19GQFU84SYOJH
+[2025.05.26-12.30.03:455][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/MXA6XIJ5R19GQFU84SYOJH5BEB5E6C4799DD60DE2FAFB58B56A243.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/QY/MXA6XIJ5R19GQFU84SYOJH.uasset'
+[2025.05.26-12.30.03:472][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/PX/CB3IWGY66NOVYM29YILRAG
+[2025.05.26-12.30.03:473][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/CB3IWGY66NOVYM29YILRAG663563E54EFA3534A9BEF1ABA2FA1053.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/PX/CB3IWGY66NOVYM29YILRAG.uasset'
+[2025.05.26-12.30.03:489][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/0W/Z3FEZF2U09WESZGYEPN70Y
+[2025.05.26-12.30.03:490][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Z3FEZF2U09WESZGYEPN70Y089540BB4B3E6D3D63304682FECC7A31.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/5/0W/Z3FEZF2U09WESZGYEPN70Y.uasset'
+[2025.05.26-12.30.03:507][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/X8/FG36QZM1AR3V1M99M3E3KZ
+[2025.05.26-12.30.03:507][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/FG36QZM1AR3V1M99M3E3KZF85667E84B1BAFF86108EA84AAE70305.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/7/X8/FG36QZM1AR3V1M99M3E3KZ.uasset'
+[2025.05.26-12.30.03:524][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/U8/A7LIXF8QJLUAVJHH2DOKN4
+[2025.05.26-12.30.03:525][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/A7LIXF8QJLUAVJHH2DOKN4F6488F7C493F9E23CAFC12A2DFDCBA25.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/2/U8/A7LIXF8QJLUAVJHH2DOKN4.uasset'
+[2025.05.26-12.30.03:541][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/Q8/Q9I1WFY1GBCHL4XK9H1UVK
+[2025.05.26-12.30.03:541][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Q9I1WFY1GBCHL4XK9H1UVK0B46D7DC429935D8686805B2BDAF7E6C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/Q8/Q9I1WFY1GBCHL4XK9H1UVK.uasset'
+[2025.05.26-12.30.03:557][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/I9/1DERPLLWVNGEMX2CCMVIYO
+[2025.05.26-12.30.03:558][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1DERPLLWVNGEMX2CCMVIYO5BB70961499A0C89F1B1F7971DCEE268.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/I9/1DERPLLWVNGEMX2CCMVIYO.uasset'
+[2025.05.26-12.30.03:575][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/69/5LVYI5D39OUCU36XFXDIG6
+[2025.05.26-12.30.03:575][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/5LVYI5D39OUCU36XFXDIG6DD4829CB46DA1E80AF7DF5A69C89437D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/5/69/5LVYI5D39OUCU36XFXDIG6.uasset'
+[2025.05.26-12.30.03:592][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/OO/FMPAB5PCEX3304P8G1HLKG
+[2025.05.26-12.30.03:592][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/FMPAB5PCEX3304P8G1HLKG7C2050D14758D023A760919756C62FCA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/OO/FMPAB5PCEX3304P8G1HLKG.uasset'
+[2025.05.26-12.30.03:611][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/YL/9XS9BA8TUZ0C3JQK62Y69H
+[2025.05.26-12.30.03:611][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/9XS9BA8TUZ0C3JQK62Y69HEAD60AF2477AA7654C4EECA23591CCA9.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/2/YL/9XS9BA8TUZ0C3JQK62Y69H.uasset'
+[2025.05.26-12.30.03:627][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/TP/VUMK45ZE26HUBKHYQJEXUJ
+[2025.05.26-12.30.03:627][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/VUMK45ZE26HUBKHYQJEXUJ83AEA088410FAEB8EC0E13B42F2C1FD5.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/TP/VUMK45ZE26HUBKHYQJEXUJ.uasset'
+[2025.05.26-12.30.03:645][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/7M/557GD2ZQIN6CRHGME12WIE
+[2025.05.26-12.30.03:645][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/557GD2ZQIN6CRHGME12WIE0B49D7CE4C42CC4AB6238E96EBC784D6.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/7M/557GD2ZQIN6CRHGME12WIE.uasset'
+[2025.05.26-12.30.03:662][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/1R/NP2NTUURFEDKL7OK80FGTI
+[2025.05.26-12.30.03:662][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/NP2NTUURFEDKL7OK80FGTI934DC67A44F3AE8875E117A99D738C13.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/1R/NP2NTUURFEDKL7OK80FGTI.uasset'
+[2025.05.26-12.30.03:679][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/9B/E48ZJU3AQSBO1Q4WHL2R0K
+[2025.05.26-12.30.03:679][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/E48ZJU3AQSBO1Q4WHL2R0K853598554F278F3E1FFE1C95883C0968.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/9B/E48ZJU3AQSBO1Q4WHL2R0K.uasset'
+[2025.05.26-12.30.03:696][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/IU/U4OHFLYMWIVV9TQDG8PT72
+[2025.05.26-12.30.03:696][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/U4OHFLYMWIVV9TQDG8PT724BDD519143DFE30FD25380B867705AB4.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/IU/U4OHFLYMWIVV9TQDG8PT72.uasset'
+[2025.05.26-12.30.03:715][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/85/51BJFFQ16XZ5Z3HTU3DVW9
+[2025.05.26-12.30.03:715][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/51BJFFQ16XZ5Z3HTU3DVW90ED6CE0E4606064042F8DF89DB0C004D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/2/85/51BJFFQ16XZ5Z3HTU3DVW9.uasset'
+[2025.05.26-12.30.03:731][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/VZ/R5WS6YYLZPG1Q3LQJ6LT8G
+[2025.05.26-12.30.03:731][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/R5WS6YYLZPG1Q3LQJ6LT8G41CB6C404A4C4F4214E1078BFB9F4800.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/VZ/R5WS6YYLZPG1Q3LQJ6LT8G.uasset'
+[2025.05.26-12.30.03:748][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/NH/ME4VCWUGWSSJZQ6H7ZCF3D
+[2025.05.26-12.30.03:748][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/ME4VCWUGWSSJZQ6H7ZCF3D236F2F6C46A67CB3D577BD8D9C650521.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/NH/ME4VCWUGWSSJZQ6H7ZCF3D.uasset'
+[2025.05.26-12.30.03:766][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/TP/XW0WBZ74FW5NYUETGSEM3R
+[2025.05.26-12.30.03:766][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/XW0WBZ74FW5NYUETGSEM3RF7C96F1E47731C0F8066949E19D54198.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/TP/XW0WBZ74FW5NYUETGSEM3R.uasset'
+[2025.05.26-12.30.03:783][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/IN/NQLQOXKERHOOPLDNO3G09E
+[2025.05.26-12.30.03:783][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/NQLQOXKERHOOPLDNO3G09E8B1D707842326ACB04019CBE8B748FC8.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/IN/NQLQOXKERHOOPLDNO3G09E.uasset'
+[2025.05.26-12.30.03:800][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/TU/GOOFP7G2AO53XG8IB1CN1R
+[2025.05.26-12.30.03:800][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/GOOFP7G2AO53XG8IB1CN1RD5F04BDE428C85BA754EAB96368BB2A8.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/5/TU/GOOFP7G2AO53XG8IB1CN1R.uasset'
+[2025.05.26-12.30.03:818][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/EH/AGAG547NNV0QWED5TEPXKS
+[2025.05.26-12.30.03:818][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/AGAG547NNV0QWED5TEPXKSC94811104E56DFBC52A679A3B39056DA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/6/EH/AGAG547NNV0QWED5TEPXKS.uasset'
+[2025.05.26-12.30.03:835][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/RH/0Z0SG1JV3CNUNTUVG8QV5S
+[2025.05.26-12.30.03:835][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/0Z0SG1JV3CNUNTUVG8QV5SB19D547344B0C0D729F91AA6C16D9ECD.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/4/RH/0Z0SG1JV3CNUNTUVG8QV5S.uasset'
+[2025.05.26-12.30.03:852][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/SU/1ZTB6EGBWC67ITLOTL7EEP
+[2025.05.26-12.30.03:852][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1ZTB6EGBWC67ITLOTL7EEPF0E4E5794551540EBB935080519419AF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/6/SU/1ZTB6EGBWC67ITLOTL7EEP.uasset'
+[2025.05.26-12.30.03:870][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/IR/29T1A5BWA5S3XBCPEDQYG8
+[2025.05.26-12.30.03:870][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/29T1A5BWA5S3XBCPEDQYG88F234A0B4C79806C7BD92E932475CBEF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/6/IR/29T1A5BWA5S3XBCPEDQYG8.uasset'
+[2025.05.26-12.30.03:887][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/E9/JEY83RWJ5VPNC4ZI1JQ6W9
+[2025.05.26-12.30.03:887][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/JEY83RWJ5VPNC4ZI1JQ6W9815AC19A4F71B2333520C6AAC067623C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/E9/JEY83RWJ5VPNC4ZI1JQ6W9.uasset'
+[2025.05.26-12.30.03:903][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/K4/OHL5ZPZWTYFUQOPIX4PY1P
+[2025.05.26-12.30.03:903][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/OHL5ZPZWTYFUQOPIX4PY1P0BF9BDF144E8523E367C49982B8C68B6.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/K4/OHL5ZPZWTYFUQOPIX4PY1P.uasset'
+[2025.05.26-12.30.03:923][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/8S/6SV30TFVQ3V3QEGTOO6QPR
+[2025.05.26-12.30.03:923][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/6SV30TFVQ3V3QEGTOO6QPRB5D04E854523384A4218219DD94C3366.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/8S/6SV30TFVQ3V3QEGTOO6QPR.uasset'
+[2025.05.26-12.30.03:940][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/PP/PJO8R3QH81UO4JPOW1KD80
+[2025.05.26-12.30.03:940][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PJO8R3QH81UO4JPOW1KD807E5A35D24EB63D8BA1DD1EB46294C991.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/4/PP/PJO8R3QH81UO4JPOW1KD80.uasset'
+[2025.05.26-12.30.03:957][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/0W/7IY1OV3D58XC635138UTBL
+[2025.05.26-12.30.03:957][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7IY1OV3D58XC635138UTBL076E2F2241877207B86809B0B8D291C9.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/0W/7IY1OV3D58XC635138UTBL.uasset'
+[2025.05.26-12.30.03:975][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/K5/BHMSHW1IASZV1P6GAFT4M1
+[2025.05.26-12.30.03:975][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BHMSHW1IASZV1P6GAFT4M170C565F84036724EB88BE78E21C9F550.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/K5/BHMSHW1IASZV1P6GAFT4M1.uasset'
+[2025.05.26-12.30.03:993][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/CR/XJNJSGB63PUEBGO66Z6JPU
+[2025.05.26-12.30.03:993][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/XJNJSGB63PUEBGO66Z6JPU44017D4B449D5C0B631CF699FC268A6E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/B/CR/XJNJSGB63PUEBGO66Z6JPU.uasset'
+[2025.05.26-12.30.04:001][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/8S/4SBRF2B4IMQ9V8MLMGHN7O
+[2025.05.26-12.30.04:002][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/4SBRF2B4IMQ9V8MLMGHN7OC40E997A47E87C8F0328768703607407.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/8S/4SBRF2B4IMQ9V8MLMGHN7O.uasset'
+[2025.05.26-12.30.04:008][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/EG/01CDJND89TG2Y542RMGQIC
+[2025.05.26-12.30.04:008][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/01CDJND89TG2Y542RMGQIC469369884D461A1E2FF26D841A67BEC6.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/EG/01CDJND89TG2Y542RMGQIC.uasset'
+[2025.05.26-12.30.04:015][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/XR/8XQ69AOC6P1YOEJKHMZWSR
+[2025.05.26-12.30.04:015][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/8XQ69AOC6P1YOEJKHMZWSR9A945E1F4FC21A3F127D109FFC7ACEAA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/XR/8XQ69AOC6P1YOEJKHMZWSR.uasset'
+[2025.05.26-12.30.04:021][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/XT/N29V81JC1R0MY0FE5PN4BV
+[2025.05.26-12.30.04:022][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/N29V81JC1R0MY0FE5PN4BV0B838AAB4A59BC676AC9E4926193BE02.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/2/XT/N29V81JC1R0MY0FE5PN4BV.uasset'
+[2025.05.26-12.30.04:027][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/27/EQEEGVAND8VH9HEL7UM4HQ
+[2025.05.26-12.30.04:027][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/EQEEGVAND8VH9HEL7UM4HQ239115184F0418FF9242539C19B3C5B8.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/27/EQEEGVAND8VH9HEL7UM4HQ.uasset'
+[2025.05.26-12.30.04:033][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/RC/E1LXOG7FJEZ2DIAYD6WV33
+[2025.05.26-12.30.04:033][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/E1LXOG7FJEZ2DIAYD6WV33789723594C879680C99D448B8AB92C7D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/RC/E1LXOG7FJEZ2DIAYD6WV33.uasset'
+[2025.05.26-12.30.04:040][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/FP/PDHBYD7U5NVONORL3JUHIP
+[2025.05.26-12.30.04:040][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PDHBYD7U5NVONORL3JUHIP8E61675349746A87146B688BF31FB35A.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/FP/PDHBYD7U5NVONORL3JUHIP.uasset'
+[2025.05.26-12.30.04:046][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/3Z/JX9ZTXOPN63D92SJY3A876
+[2025.05.26-12.30.04:047][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/JX9ZTXOPN63D92SJY3A876D4A87EAC43A06314CA12E1B291B0FF29.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/3Z/JX9ZTXOPN63D92SJY3A876.uasset'
+[2025.05.26-12.30.04:052][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/9E/EG2V8INRUYXG7LRMLAFLPQ
+[2025.05.26-12.30.04:054][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/EG2V8INRUYXG7LRMLAFLPQ3F8E77144C8A47D7F9EC1AA9E005F39E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/B/9E/EG2V8INRUYXG7LRMLAFLPQ.uasset'
+[2025.05.26-12.30.04:059][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/4P/4CTNFM1FEGCPIEKZ2BHFGA
+[2025.05.26-12.30.04:059][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/4CTNFM1FEGCPIEKZ2BHFGA619DADA545039EA6C084249E0297E0DD.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/4P/4CTNFM1FEGCPIEKZ2BHFGA.uasset'
+[2025.05.26-12.30.04:067][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/WS/A2NCSS6CEPLPEYC4EPBXGZ
+[2025.05.26-12.30.04:067][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/A2NCSS6CEPLPEYC4EPBXGZ9DEB88AD44839B01CED3EF935E0C0D24.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/3/WS/A2NCSS6CEPLPEYC4EPBXGZ.uasset'
+[2025.05.26-12.30.04:072][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/4I/HYO3SKV93QXU0XDK9NEZ8K
+[2025.05.26-12.30.04:074][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/HYO3SKV93QXU0XDK9NEZ8K58988FE84BC822B4FAA899A8BFA878C3.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/4I/HYO3SKV93QXU0XDK9NEZ8K.uasset'
+[2025.05.26-12.30.04:079][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/NX/6WEZC183RV7JTGAN9FCFBD
+[2025.05.26-12.30.04:079][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/6WEZC183RV7JTGAN9FCFBD71A0F5D04AB7BE515F0390B310181F71.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/NX/6WEZC183RV7JTGAN9FCFBD.uasset'
+[2025.05.26-12.30.04:086][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/GX/N38287O9WJMKV99B78YVQ3
+[2025.05.26-12.30.04:086][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/N38287O9WJMKV99B78YVQ37AAB75594280CD346DD95A9045519480.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/6/GX/N38287O9WJMKV99B78YVQ3.uasset'
+[2025.05.26-12.30.04:092][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/DI/NDV8YO1DD51MLAQBGM2TVP
+[2025.05.26-12.30.04:093][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/NDV8YO1DD51MLAQBGM2TVP7027FE7E41E80436321A4188790B4301.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/DI/NDV8YO1DD51MLAQBGM2TVP.uasset'
+[2025.05.26-12.30.04:099][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/EQ/PTT74GYYZ1J97ERQVACDWL
+[2025.05.26-12.30.04:099][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PTT74GYYZ1J97ERQVACDWL86F51D384A28FC78113663B61E539717.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/EQ/PTT74GYYZ1J97ERQVACDWL.uasset'
+[2025.05.26-12.30.04:106][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/GE/9MNRT36JGJFZWWG51GQOAO
+[2025.05.26-12.30.04:106][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/9MNRT36JGJFZWWG51GQOAO7FFBC31041997FB0D0D85CAF3FA7EBB4.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/GE/9MNRT36JGJFZWWG51GQOAO.uasset'
+[2025.05.26-12.30.04:112][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/Y6/HQ2AOL2HLRH9HFG7DJTJOZ
+[2025.05.26-12.30.04:112][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/HQ2AOL2HLRH9HFG7DJTJOZF8DFC667438BE52E2D914BAC48EF6305.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/Y6/HQ2AOL2HLRH9HFG7DJTJOZ.uasset'
+[2025.05.26-12.30.04:120][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/A3/KDVVPWZ5INCN2ZSPONAXTF
+[2025.05.26-12.30.04:120][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/KDVVPWZ5INCN2ZSPONAXTFAEF3512E42CBCC61065264AF12CCA5C3.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/A3/KDVVPWZ5INCN2ZSPONAXTF.uasset'
+[2025.05.26-12.30.04:127][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/15/NJKQG3EVFHH25D8PA44ATV
+[2025.05.26-12.30.04:127][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/NJKQG3EVFHH25D8PA44ATVC51304EF4346F16BE620778CE19DB4AC.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/15/NJKQG3EVFHH25D8PA44ATV.uasset'
+[2025.05.26-12.30.04:133][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/AU/WIWTT4DFX4YH5F6HUDBU3S
+[2025.05.26-12.30.04:133][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/WIWTT4DFX4YH5F6HUDBU3S70FD110740A3A470A3C4AAAC0343F23E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/AU/WIWTT4DFX4YH5F6HUDBU3S.uasset'
+[2025.05.26-12.30.04:140][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/32/9I7MU6G0N4KAFXZLF2927L
+[2025.05.26-12.30.04:140][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/9I7MU6G0N4KAFXZLF2927L889E5F5747A784057A237E94A6B2B808.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/32/9I7MU6G0N4KAFXZLF2927L.uasset'
+[2025.05.26-12.30.04:146][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/NI/RXMHRJINIO0Q8MARCC60SH
+[2025.05.26-12.30.04:147][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/RXMHRJINIO0Q8MARCC60SH42E5C5E24F1914A7282E75A4AAC854A7.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/NI/RXMHRJINIO0Q8MARCC60SH.uasset'
+[2025.05.26-12.30.04:153][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/MW/A1KN2PSZJ4UUFQSI8BUTUD
+[2025.05.26-12.30.04:153][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/A1KN2PSZJ4UUFQSI8BUTUD7DC848FB4DBFA3BC1C9D5982A925DACA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/MW/A1KN2PSZJ4UUFQSI8BUTUD.uasset'
+[2025.05.26-12.30.04:159][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/5C/YX9A0D47PCZJTVBLQBEK0J
+[2025.05.26-12.30.04:159][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/YX9A0D47PCZJTVBLQBEK0JA98EBE794CBE59586D3E928BDDB6D780.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/9/5C/YX9A0D47PCZJTVBLQBEK0J.uasset'
+[2025.05.26-12.30.04:166][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/OH/71LGIER1N56C6TOAL5XC4W
+[2025.05.26-12.30.04:166][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/71LGIER1N56C6TOAL5XC4W7A3CD77F42F8F1804458EE888C92554D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/2/OH/71LGIER1N56C6TOAL5XC4W.uasset'
+[2025.05.26-12.30.04:172][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/SZ/B8L5T0FPUULJEZZAS2UC1C
+[2025.05.26-12.30.04:172][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/B8L5T0FPUULJEZZAS2UC1C8CFCC10D48DED4400B0D8EA57C653E73.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/SZ/B8L5T0FPUULJEZZAS2UC1C.uasset'
+[2025.05.26-12.30.04:179][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/OG/N9RFJAVVBU5UB9YO20VYJX
+[2025.05.26-12.30.04:179][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/N9RFJAVVBU5UB9YO20VYJX756F36D8434B067FBB2ADC809061D770.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/OG/N9RFJAVVBU5UB9YO20VYJX.uasset'
+[2025.05.26-12.30.04:186][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/HW/BXR83YRHPJO9FKCIWKGX9A
+[2025.05.26-12.30.04:186][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BXR83YRHPJO9FKCIWKGX9A10021EF94A8575A1023552905A1F6605.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/HW/BXR83YRHPJO9FKCIWKGX9A.uasset'
+[2025.05.26-12.30.04:193][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/T0/QJRQZJ7DUZA5R1A6M5JJI3
+[2025.05.26-12.30.04:193][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/QJRQZJ7DUZA5R1A6M5JJI36975EE06406630DDB598708EF8A5D682.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/T0/QJRQZJ7DUZA5R1A6M5JJI3.uasset'
+[2025.05.26-12.30.04:199][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/YR/9IERANYGJQ0BB9NQ1NB1H3
+[2025.05.26-12.30.04:199][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/9IERANYGJQ0BB9NQ1NB1H3BE810FC54A8ABC64F879A39C35A594F6.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/YR/9IERANYGJQ0BB9NQ1NB1H3.uasset'
+[2025.05.26-12.30.04:205][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/2V/8JWN1YT2G7N1VSVDCU78AD
+[2025.05.26-12.30.04:205][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/8JWN1YT2G7N1VSVDCU78ADE531A42D472F83E991A29F89762E2FE7.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/7/2V/8JWN1YT2G7N1VSVDCU78AD.uasset'
+[2025.05.26-12.30.04:212][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/F/30/F2YAMS1U5BEGVDUQELFI73
+[2025.05.26-12.30.04:212][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/F2YAMS1U5BEGVDUQELFI738DA5D7674BD7267E7D3AC1943C3ACED1.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/F/30/F2YAMS1U5BEGVDUQELFI73.uasset'
+[2025.05.26-12.30.04:218][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/M6/KX1TP68DUK7XOHPYACNPQT
+[2025.05.26-12.30.04:219][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/KX1TP68DUK7XOHPYACNPQT85ABFF4A4EDCF219077B7C85D476391E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/M6/KX1TP68DUK7XOHPYACNPQT.uasset'
+[2025.05.26-12.30.04:226][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/JP/C5PDE4TYZCE8UKSLL797GG
+[2025.05.26-12.30.04:226][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/C5PDE4TYZCE8UKSLL797GG9FD74C5D40E330B61112FD9891AFECDB.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/JP/C5PDE4TYZCE8UKSLL797GG.uasset'
+[2025.05.26-12.30.04:232][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/BW/5QPKL6N86AFIVQACLPDNDG
+[2025.05.26-12.30.04:232][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/5QPKL6N86AFIVQACLPDNDGB6DE393C42189BAE128F09A74B89CE60.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/BW/5QPKL6N86AFIVQACLPDNDG.uasset'
+[2025.05.26-12.30.04:238][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/0Q/7HW1GRN74FA6RSQ4HCXDRV
+[2025.05.26-12.30.04:238][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7HW1GRN74FA6RSQ4HCXDRV1AE9ECAD47CD065D4E29E69B7732C9A9.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/0Q/7HW1GRN74FA6RSQ4HCXDRV.uasset'
+[2025.05.26-12.30.04:246][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/GJ/ZV8VQ65FWSLJBCDZGIC8ZA
+[2025.05.26-12.30.04:246][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/ZV8VQ65FWSLJBCDZGIC8ZA2B94F08B423C4AFC941BE9B4E6BABE2E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/3/GJ/ZV8VQ65FWSLJBCDZGIC8ZA.uasset'
+[2025.05.26-12.30.04:252][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/AV/1AE4OTS2OIGN11YLS498IT
+[2025.05.26-12.30.04:252][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1AE4OTS2OIGN11YLS498ITD66AE6554D324AFC6F9121B9BC5AE032.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/7/AV/1AE4OTS2OIGN11YLS498IT.uasset'
+[2025.05.26-12.30.04:259][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/WN/CGJZTNHRTYPHU83VN08KGZ
+[2025.05.26-12.30.04:259][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/CGJZTNHRTYPHU83VN08KGZC291C4FB40A977BAB21C47A88B7EE665.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/WN/CGJZTNHRTYPHU83VN08KGZ.uasset'
+[2025.05.26-12.30.04:266][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/KR/M0RJ5ABZ5SRIIHO76HMJ9Y
+[2025.05.26-12.30.04:266][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/M0RJ5ABZ5SRIIHO76HMJ9Y8B57B48C4B67C7F078652FBD044FC589.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/KR/M0RJ5ABZ5SRIIHO76HMJ9Y.uasset'
+[2025.05.26-12.30.04:272][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/HT/ARD31323IFB78P3LZQ23CK
+[2025.05.26-12.30.04:272][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/ARD31323IFB78P3LZQ23CK336270B04740143799BDB395C91E7E7C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/HT/ARD31323IFB78P3LZQ23CK.uasset'
+[2025.05.26-12.30.04:280][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/YG/LHVU46TWE8ZNYU5LT80OXK
+[2025.05.26-12.30.04:280][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/LHVU46TWE8ZNYU5LT80OXK5D0736524ED8C9C75383978C55B3E652.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/5/YG/LHVU46TWE8ZNYU5LT80OXK.uasset'
+[2025.05.26-12.30.04:286][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/US/U5F2LNSM5HLLR26V6SO3SW
+[2025.05.26-12.30.04:286][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/U5F2LNSM5HLLR26V6SO3SW133B84304F777A1E088436A090FD738B.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/US/U5F2LNSM5HLLR26V6SO3SW.uasset'
+[2025.05.26-12.30.04:292][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/3F/VJOIHJZXQ3NHDJZFSLJIXQ
+[2025.05.26-12.30.04:292][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/VJOIHJZXQ3NHDJZFSLJIXQ3F3530BD4171F6DC444BE58B5BB938DA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/B/3F/VJOIHJZXQ3NHDJZFSLJIXQ.uasset'
+[2025.05.26-12.30.04:299][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/WO/3H9YGFECCU5LZN0SBBY17M
+[2025.05.26-12.30.04:299][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/3H9YGFECCU5LZN0SBBY17M78D2DA3F4F9877A7F81EFEB98DBC2BE9.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/WO/3H9YGFECCU5LZN0SBBY17M.uasset'
+[2025.05.26-12.30.04:305][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/VY/7MKVRI3ESZP05QQ4YLOFDI
+[2025.05.26-12.30.04:305][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7MKVRI3ESZP05QQ4YLOFDI7F89570B471ED3CB45832B9C78DBA5BA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/VY/7MKVRI3ESZP05QQ4YLOFDI.uasset'
+[2025.05.26-12.30.04:312][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/1R/7C5Y5ECX9LKL1LMU5C1U3Y
+[2025.05.26-12.30.04:312][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7C5Y5ECX9LKL1LMU5C1U3YC84238C5452413AB155E369F971B9C3D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/6/1R/7C5Y5ECX9LKL1LMU5C1U3Y.uasset'
+[2025.05.26-12.30.04:319][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/YN/3149BHA43NRWDCU1SVGX67
+[2025.05.26-12.30.04:319][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/3149BHA43NRWDCU1SVGX678D5A09CB4945F28E031FDAA67DF4F950.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/D/YN/3149BHA43NRWDCU1SVGX67.uasset'
+[2025.05.26-12.30.04:326][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/AH/ZBEO2BCDSTACBQ5JCT8WWZ
+[2025.05.26-12.30.04:326][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/ZBEO2BCDSTACBQ5JCT8WWZC197DD37418506275FD5DCB3A4D5E12D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/0/AH/ZBEO2BCDSTACBQ5JCT8WWZ.uasset'
+[2025.05.26-12.30.04:332][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/7H/A7599QHSAU1YY62TTLEGKD
+[2025.05.26-12.30.04:332][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/A7599QHSAU1YY62TTLEGKD9422CE5D4CFC6245B755AA87EC23E645.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/1/7H/A7599QHSAU1YY62TTLEGKD.uasset'
+[2025.05.26-12.30.04:339][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/6B/WVDRJPMJXACJXPAIXXBXA8
+[2025.05.26-12.30.04:339][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/WVDRJPMJXACJXPAIXXBXA89E775CE04CA5B2B54CCDBB8C336FB834.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/E/6B/WVDRJPMJXACJXPAIXXBXA8.uasset'
+[2025.05.26-12.30.04:346][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/UH/EBYIHQZEZMYP07G34R1DJ1
+[2025.05.26-12.30.04:346][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/EBYIHQZEZMYP07G34R1DJ118F3FB4346A148C22EADCA88218D5694.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/4/UH/EBYIHQZEZMYP07G34R1DJ1.uasset'
+[2025.05.26-12.30.04:351][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/1T/OP1QS8NOCF0UBYAN6LCHVO
+[2025.05.26-12.30.04:351][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/OP1QS8NOCF0UBYAN6LCHVODE5C3DCC4BE10E827831EDB2F3EA4288.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/1T/OP1QS8NOCF0UBYAN6LCHVO.uasset'
+[2025.05.26-12.30.04:358][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/SC/MMNNG13V6R4CP0V12DZ0LP
+[2025.05.26-12.30.04:358][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/MMNNG13V6R4CP0V12DZ0LP37429522474E90029B596B8B8E9730B2.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/7/SC/MMNNG13V6R4CP0V12DZ0LP.uasset'
+[2025.05.26-12.30.04:364][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/F1/GSLU4QJ71HLT8BWJTM0NG1
+[2025.05.26-12.30.04:364][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/GSLU4QJ71HLT8BWJTM0NG1781963C44B903D988E045B92326032C0.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/F1/GSLU4QJ71HLT8BWJTM0NG1.uasset'
+[2025.05.26-12.30.04:371][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/SE/WPANEAHT32S0NZ96P0OLUJ
+[2025.05.26-12.30.04:371][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/WPANEAHT32S0NZ96P0OLUJ3F4B39E5493A772520A5F0B0A2743ADF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/5/SE/WPANEAHT32S0NZ96P0OLUJ.uasset'
+[2025.05.26-12.30.04:378][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/9S/1G3TYK32AV2E4ZCWDRG4QH
+[2025.05.26-12.30.04:378][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1G3TYK32AV2E4ZCWDRG4QHD965A32E41F336087B3B3087833C56E8.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/5/9S/1G3TYK32AV2E4ZCWDRG4QH.uasset'
+[2025.05.26-12.30.04:384][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/FO/PX5F9EIIFGQXQPTSC78V8H
+[2025.05.26-12.30.04:384][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PX5F9EIIFGQXQPTSC78V8HF775E4DD4F30268748009699BB1137C5.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/8/FO/PX5F9EIIFGQXQPTSC78V8H.uasset'
+[2025.05.26-12.30.04:390][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/RB/1BD4RNXXCR5GM0T9A0P2H3
+[2025.05.26-12.30.04:390][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1BD4RNXXCR5GM0T9A0P2H3034747484BEA0B9F2D0C308ADE612174.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/RB/1BD4RNXXCR5GM0T9A0P2H3.uasset'
+[2025.05.26-12.30.04:396][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/NU/M8V3Q4QY6MGFMTVTVQFN9Z
+[2025.05.26-12.30.04:396][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/M8V3Q4QY6MGFMTVTVQFN9ZF544D5824BF78259C08F6EBB09FA246B.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/4/NU/M8V3Q4QY6MGFMTVTVQFN9Z.uasset'
+[2025.05.26-12.30.04:403][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/DE/1ZXCAOIKJ1YN17H12FSYWU
+[2025.05.26-12.30.04:403][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1ZXCAOIKJ1YN17H12FSYWUFE67588344F0EF0A55A765902B4B2ABB.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/DE/1ZXCAOIKJ1YN17H12FSYWU.uasset'
+[2025.05.26-12.30.04:410][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/QI/8DIFUES14I09SPDMP791II
+[2025.05.26-12.30.04:411][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/8DIFUES14I09SPDMP791II37D2CD7F4B13B2EB478EC798289DB21C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/C/QI/8DIFUES14I09SPDMP791II.uasset'
+[2025.05.26-12.30.04:417][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/5Y/PL1CF660YZJ07BN2JVGVZ3
+[2025.05.26-12.30.04:417][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/PL1CF660YZJ07BN2JVGVZ328D48A2944DA7FD5795550BFF1345C05.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/7/5Y/PL1CF660YZJ07BN2JVGVZ3.uasset'
+[2025.05.26-12.30.04:420][ 19]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/5A/ANNI01DU4895UPS9TL915U
+[2025.05.26-12.30.04:420][ 19]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/ANNI01DU4895UPS9TL915UC9B99A1643A5C1F61186CCA8A378D179.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/MainMap/A/5A/ANNI01DU4895UPS9TL915U.uasset'
+[2025.05.26-12.30.12:544][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.84 sec
+[2025.05.26-12.30.19:295][ 19]LogFileHelpers: Saving map 'MainMap' took 29.837
+[2025.05.26-12.30.19:303][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.0 sec (total: 46.9 sec)
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: Display: Starting to validate 147 assets
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: Enabled validators:
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.26-12.30.19:385][ 19]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.26-12.30.19:386][ 19]AssetCheck: /Game/MainMap Validating asset
+[2025.05.26-12.30.19:386][ 19]AssetCheck: /Game/MainMap_HLOD0_Instancing Validating asset
+[2025.05.26-12.30.19:758][ 21]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1'
+[2025.05.26-12.30.26:474][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:474][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:474][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:474][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:476][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:477][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
+[2025.05.26-12.30.26:478][148]SourceControl: Error: fatal: Invalid path '/Temp/Untitled_1_InstanceOf_': No such file or directory
