@@ -10979,3 +10979,638 @@ Sampler Limit: 32
 [2025.05.27-12.19.07:644][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Ball_Auto5
 [2025.05.27-12.19.07:645][191]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Ball_Auto5E0AF498D496D2C37D4E1009B5B2A3C06.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto5.uasset'
 [2025.05.27-12.19.07:647][191]LogFileHelpers: Auto-saving content packages took 0.118
+[2025.05.27-12.20.05:418][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.20.05:467][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Ball] ([2] browsable assets)...
+[2025.05.27-12.20.05:467][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2025.05.27-12.20.05:467][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2025.05.27-12.20.05:473][688]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ball
+[2025.05.27-12.20.05:474][688]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Ball1122F57E4A9D18F8FBAF65924A0DC640.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Ball.uasset'
+[2025.05.27-12.20.05:487][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.635 ms (total: 33.3 sec)
+[2025.05.27-12.20.05:535][688]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.20.05:535][688]LogContentValidation: Enabled validators:
+[2025.05.27-12.20.05:535][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.20.05:535][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.20.05:535][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.20.05:535][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.20.05:535][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.20.05:535][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.20.05:535][688]AssetCheck: /Game/Blueprints/BP_Ball Validating asset
+[2025.05.27-12.20.06:506][771]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.20.06:506][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.20.06:635][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.27-12.20.08:552][914]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.27-12.20.08:552][914]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.20.08:552][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.20.08:648][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.27-12.20.10:891][158]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.20.10:891][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.20.10:935][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.27-12.20.15:804][490]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.27-12.20.15:819][490]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.27-12.20.15:826][490]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.27-12.20.15:839][491]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.27-12.20.22:430][ 60]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Boxes
+[2025.05.27-12.20.22:446][ 60]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.27-12.20.23:800][165]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes
+[2025.05.27-12.20.23:800][165]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.05.27-12.20.58:952][475]LogSlate: Window 'BP_Boxes' being destroyed
+[2025.05.27-12.21.00:547][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2025.05.27-12.21.00:548][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.05.27-12.21.07:836][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.21.07:883][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Ball] ([2] browsable assets)...
+[2025.05.27-12.21.07:883][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2025.05.27-12.21.07:883][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2025.05.27-12.21.07:888][202]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ball
+[2025.05.27-12.21.07:889][202]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BallC33507CB485D668B82B8C3B61E7E33B4.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Ball.uasset'
+[2025.05.27-12.21.07:899][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.561 ms (total: 33.4 sec)
+[2025.05.27-12.21.07:944][202]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.21.07:944][202]LogContentValidation: Enabled validators:
+[2025.05.27-12.21.07:944][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.21.07:944][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.21.07:944][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.21.07:944][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.21.07:944][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.21.07:944][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.21.07:944][202]AssetCheck: /Game/Blueprints/BP_Ball Validating asset
+[2025.05.27-12.21.08:525][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.21.08:571][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Ball] ([2] browsable assets)...
+[2025.05.27-12.21.08:571][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2025.05.27-12.21.08:571][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2025.05.27-12.21.08:577][261]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ball
+[2025.05.27-12.21.08:577][261]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BallFCB0F7EC4789FEE29FC1B796FE0DD5C1.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Ball.uasset'
+[2025.05.27-12.21.08:590][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.927 ms (total: 33.5 sec)
+[2025.05.27-12.21.08:640][261]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.21.08:641][261]LogContentValidation: Enabled validators:
+[2025.05.27-12.21.08:641][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.21.08:641][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.21.08:641][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.21.08:641][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.21.08:641][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.21.08:641][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.21.08:641][261]AssetCheck: /Game/Blueprints/BP_Ball Validating asset
+[2025.05.27-12.21.13:355][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-12.21.13:363][654]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-12.21.13:363][654]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-12.21.13:369][654]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 6.166 ms (total: 838.367 ms)
+[2025.05.27-12.21.13:369][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-12.21.13:369][654]LogPlayLevel: Display: Creating online subsystem for client :Context_116
+[2025.05.27-12.21.13:371][654]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2025.05.27-12.21.13:388][655]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.21.13:399][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010757s)
+[2025.05.27-12.21.13:400][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.010805s)
+[2025.05.27-12.21.13:466][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.27-12.21.13:472][655]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-12.21.13:474][655]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-12.21.13:474][655]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-12.21.13:474][655]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-12.21.13:474][655]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-12.21.13:483][655]LogWorldPartition: Display: WorldPartition initialize took 8.649 ms (total: 3.89 sec)
+[2025.05.27-12.21.13:483][655]LogPlayLevel: PIE: World Init took: (0.010480s)
+[2025.05.27-12.21.13:483][655]LogAudio: Display: Creating Audio Device:                 Id: 106, Scope: Unique, Realtime: True
+[2025.05.27-12.21.13:483][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-12.21.13:483][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-12.21.13:484][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-12.21.13:484][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-12.21.13:484][655]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-12.21.13:484][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-12.21.13:484][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-12.21.13:484][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-12.21.13:484][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-12.21.13:484][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-12.21.13:484][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-12.21.13:487][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-12.21.13:510][655]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-1000XM4)
+[2025.05.27-12.21.13:511][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-12.21.13:511][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-12.21.13:511][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-12.21.13:511][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=106
+[2025.05.27-12.21.13:512][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=106
+[2025.05.27-12.21.13:515][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=106
+[2025.05.27-12.21.13:515][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=106
+[2025.05.27-12.21.13:515][655]LogInit: FAudioDevice initialized with ID 106.
+[2025.05.27-12.21.13:515][655]LogAudio: Display: Audio Device (ID: 106) registered with world 'MainGame'.
+[2025.05.27-12.21.13:515][655]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 106
+[2025.05.27-12.21.13:547][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.21.13:547][655]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-12.21.13:550][655]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2025.05.27-14.21.13
+[2025.05.27-12.21.13:550][655]LogWorld: Bringing up level for play took: 0.002617
+[2025.05.27-12.21.13:557][655]LogStreaming: Display: FlushAsyncLoading(5639,5638,5637,5636,5635,5634,5633,5632,5631,5630,5629,5628,5627,5626,5625,5624,5623,5622,5621,5620,5619,5618,5617,5616,5615,5614,5613,5612,5611,5610,5609,5608,5607,5606,5605,5604,5603,5601,5602,5597,5598,5599,5600,5596,5594,5595,5593,5592,5591): 49 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.21.13:775][655]PIE: Server logged in
+[2025.05.27-12.21.13:776][655]PIE: Play in editor total start time 0,414 seconds.
+[2025.05.27-12.21.34:339][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.21.34:339][ 84]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.21.34:340][ 84]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-12.21.34:364][ 84]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.21.34:364][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.21.34:364][ 84]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-12.21.34:367][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-12.21.34:373][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.21.34:402][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.27-12.21.34:404][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 106
+[2025.05.27-12.21.34:404][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=106
+[2025.05.27-12.21.34:407][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=106
+[2025.05.27-12.21.34:422][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.27-12.21.34:466][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2025.05.27-12.21.41:052][703]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.05.27-12.21.49:116][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.21.49:163][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.21.49:171][430]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.21.49:171][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.21.49:171][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.21.49:175][430]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.21.49:176][430]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesEE707A144BD05AE8C9E2199ED6B8C568.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.21.49:191][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.422 ms (total: 33.5 sec)
+[2025.05.27-12.21.49:239][430]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.21.49:239][430]LogContentValidation: Enabled validators:
+[2025.05.27-12.21.49:239][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.21.49:239][430]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.21.49:239][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.21.49:239][430]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.21.49:239][430]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.21.49:239][430]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.21.49:239][430]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.21.50:013][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.27-12.21.51:892][610]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.21.51:892][610]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.21.51:894][610]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_0
+[2025.05.27-12.21.51:895][610]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_0
+[2025.05.27-12.21.54:418][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.27-12.21.54:435][817]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2025.05.27-12.21.54:440][817]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.21.54:440][817]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.21.54:449][817]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1196596044
+[2025.05.27-12.21.54:451][817]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1196596044
+[2025.05.27-12.22.02:310][535]LogStreaming: Display: FlushAsyncLoading(5640): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.22.11:834][207]LogStreaming: Display: FlushAsyncLoading(5641): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.22.15:311][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.22.15:355][467]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.22.15:363][467]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.22.15:363][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.22.15:363][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.22.15:367][467]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.22.15:368][467]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes4C0C44714E55DBDC90A872992585CA14.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.22.15:380][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.603 ms (total: 33.6 sec)
+[2025.05.27-12.22.15:425][467]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.22.15:425][467]LogContentValidation: Enabled validators:
+[2025.05.27-12.22.15:425][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.22.15:425][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.22.15:425][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.22.15:425][467]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.22.15:426][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.22.15:426][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.22.15:426][467]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.22.34:426][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7692.210449
+[2025.05.27-12.22.35:426][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-12.22.35:426][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7692.876953, Update Interval: 301.615051
+[2025.05.27-12.22.49:445][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.22.49:491][906]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.22.49:500][906]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.22.49:500][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.22.49:500][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.22.49:503][906]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.22.49:504][906]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes7FD57B1D4D4E6EC6CE33BFA3C974676E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.22.49:517][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.261 ms (total: 33.7 sec)
+[2025.05.27-12.22.49:564][906]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.22.49:564][906]LogContentValidation: Enabled validators:
+[2025.05.27-12.22.49:564][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.22.49:564][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.22.49:564][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.22.49:564][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.22.49:564][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.22.49:564][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.22.49:564][906]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: ================================================
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Total job queries 326, among them cache hits 31 (9.51%), DDC hits 175 (53.68%), Duplicates 8 (2.45%)
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Tracking 287 distinct input hashes that result in 242 distinct outputs (84.32%)
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: RAM used: 155,80 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Shaders Compiled: 112
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Jobs assigned 112, completed 112 (100%)
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Average time worker was idle: 432.13 s
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.10 s
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Job execution time: average 1.22 s, max 3.89 s
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Job life time (pending + execution): average 1.30 s, max 3.98
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Shader code size: average 7,623 KiB, min 2,785 KiB, max 12,484 KiB
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.75 s
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Jobs were issued in 112 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Average processing rate: 2.89 jobs/sec
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Total thread time: 87,17 s
+[2025.05.27-12.23.43:021][946]LogShaderCompilers: Display: Total thread preprocess time: 11,974 s
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Percentage time preprocessing: 13.74%
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Effective parallelization: 2.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 1.34 sec, max 2.28 sec, min 1.06 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   13 times, average 1.33 sec, max 2.21 sec, min 0.99 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.81 sec, max 1.30 sec, min 0.53 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.77 sec, max 0.82 sec, min 0.74 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.75 sec, max 0.80 sec, min 0.70 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.36% of total time (compiled   24 times, average 0.81 sec, max 1.30 sec, min 0.53 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.84% of total time (compiled   13 times, average 1.33 sec, max 2.21 sec, min 0.99 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.62% of total time (compiled   24 times, average 0.57 sec, max 0.96 sec, min 0.36 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.01% of total time (compiled   15 times, average 0.64 sec, max 0.97 sec, min 0.44 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 10.75% of total time (compiled    7 times, average 1.34 sec, max 2.28 sec, min 1.06 sec)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: === Material stats ===
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Materials Translated:    134
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Material Translation Only: 0.12 s (46%)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: Material Cache Hits: 19 (14%)
+[2025.05.27-12.23.43:022][946]LogShaderCompilers: Display: ================================================
+[2025.05.27-12.23.56:071][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.27-12.26.33:608][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.27-12.26.38:215][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.38:215][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.38:218][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_1
+[2025.05.27-12.26.38:220][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_1
+[2025.05.27-12.26.39:008][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.27-12.26.39:013][124]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.05.27-12.26.39:018][124]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.39:018][124]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.39:025][124]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1481174045
+[2025.05.27-12.26.39:027][124]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1481174045
+[2025.05.27-12.26.40:729][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.40:729][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.40:732][248]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_2
+[2025.05.27-12.26.40:733][248]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_2
+[2025.05.27-12.26.42:465][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.27-12.26.42:470][369]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.05.27-12.26.42:475][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.42:475][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.42:479][369]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1484631046
+[2025.05.27-12.26.42:481][369]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1484631046
+[2025.05.27-12.26.47:991][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.47:992][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.47:994][781]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_3
+[2025.05.27-12.26.47:995][781]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_3
+[2025.05.27-12.26.48:991][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.27-12.26.48:998][843]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.05.27-12.26.49:003][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.49:003][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.49:007][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1491159047
+[2025.05.27-12.26.49:009][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1491159047
+[2025.05.27-12.26.49:958][898]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.49:958][898]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.49:960][898]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_4
+[2025.05.27-12.26.49:962][898]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_4
+[2025.05.27-12.26.51:747][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.27-12.26.51:752][ 30]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.05.27-12.26.51:758][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.51:758][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-12.26.51:761][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1493914048
+[2025.05.27-12.26.51:763][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1493914048
+[2025.05.27-12.26.52:176][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.26.52:244][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.27-12.26.52:271][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.27-12.26.52:296][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.27-12.26.52:299][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS
+[2025.05.27-12.26.52:299][ 59]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/L3MEJ08U26ZTC46DMHJUIS6907F2FB44C576098FBC5D941ECC8B87.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS.uasset'
+[2025.05.27-12.26.52:303][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J
+[2025.05.27-12.26.52:303][ 59]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1CDLESWOO34KZ0CGG5AD2J56245A8444573FE38D4FA7B2B5020715.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J.uasset'
+[2025.05.27-12.26.52:306][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ
+[2025.05.27-12.26.52:306][ 59]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/2ASFN1BZB23IYGV3S7N9LQCD824AA348255517CB3145893C884579.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ.uasset'
+[2025.05.27-12.26.52:310][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR
+[2025.05.27-12.26.52:310][ 59]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7XUGDRZF2FRG6TMV7GFWGR2E06ADEA423E474EFF70419F04A97E12.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR.uasset'
+[2025.05.27-12.26.52:314][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ
+[2025.05.27-12.26.52:314][ 59]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/54NX6FGYB3D4O3WXBMXTAZC004478646D5AD5D48D1D2ACC79A69F2.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ.uasset'
+[2025.05.27-12.26.52:330][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.008 ms (total: 33.8 sec)
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: Display: Starting to validate 7 assets
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: Enabled validators:
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.26.52:380][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.26.52:381][ 59]AssetCheck: /Game/Map/MainGame Validating asset
+[2025.05.27-12.26.55:266][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.26.55:317][335]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.26.55:351][335]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.26.55:351][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.26.55:352][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.26.55:357][335]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.26.55:358][335]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes4087995D43F8AA21E0F957BA4DFC6BDA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.26.55:373][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.868 ms (total: 33.9 sec)
+[2025.05.27-12.26.55:420][335]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.26.55:420][335]LogContentValidation: Enabled validators:
+[2025.05.27-12.26.55:420][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.26.55:420][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.26.55:420][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.26.55:420][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.26.55:420][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.26.55:420][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.26.55:420][335]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.26.56:318][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-12.26.56:327][433]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-12.26.56:327][433]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-12.26.56:333][433]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 6.398 ms (total: 844.766 ms)
+[2025.05.27-12.26.56:337][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-12.26.56:337][433]LogPlayLevel: Display: Creating online subsystem for client :Context_118
+[2025.05.27-12.26.56:340][433]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2025.05.27-12.26.56:375][434]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.26.56:386][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010654s)
+[2025.05.27-12.26.56:386][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.010703s)
+[2025.05.27-12.26.56:408][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.27-12.26.56:410][434]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-12.26.56:412][434]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-12.26.56:412][434]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-12.26.56:412][434]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-12.26.56:412][434]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-12.26.56:422][434]LogWorldPartition: Display: WorldPartition initialize took 8.759 ms (total: 3.90 sec)
+[2025.05.27-12.26.56:422][434]LogPlayLevel: PIE: World Init took: (0.010674s)
+[2025.05.27-12.26.56:422][434]LogAudio: Display: Creating Audio Device:                 Id: 107, Scope: Unique, Realtime: True
+[2025.05.27-12.26.56:422][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-12.26.56:422][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-12.26.56:422][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-12.26.56:422][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-12.26.56:422][434]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-12.26.56:422][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-12.26.56:422][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-12.26.56:422][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-12.26.56:422][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-12.26.56:422][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-12.26.56:422][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-12.26.56:425][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-12.26.56:448][434]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-1000XM4)
+[2025.05.27-12.26.56:448][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-12.26.56:448][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-12.26.56:448][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-12.26.56:449][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=107
+[2025.05.27-12.26.56:449][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=107
+[2025.05.27-12.26.56:453][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=107
+[2025.05.27-12.26.56:453][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=107
+[2025.05.27-12.26.56:453][434]LogInit: FAudioDevice initialized with ID 107.
+[2025.05.27-12.26.56:453][434]LogAudio: Display: Audio Device (ID: 107) registered with world 'MainGame'.
+[2025.05.27-12.26.56:453][434]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 107
+[2025.05.27-12.26.56:489][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.26.56:489][434]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-12.26.56:490][434]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2025.05.27-14.26.56
+[2025.05.27-12.26.56:490][434]LogWorld: Bringing up level for play took: 0.002038
+[2025.05.27-12.26.56:499][434]LogStreaming: Display: FlushAsyncLoading(5695,5694,5693,5692,5691,5690,5689,5688,5687,5686,5685,5684,5683,5682,5681,5680,5679,5678,5677,5676,5675,5674,5673,5672,5671,5670,5669,5668,5667,5666,5665,5664,5663,5662,5661,5660,5657,5658,5659,5655,5656,5650,5651,5652,5653,5654,5649,5645,5646,5647,5648,5644,5643,5642): 54 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.26.56:732][434]PIE: Server logged in
+[2025.05.27-12.26.56:732][434]PIE: Play in editor total start time 0,406 seconds.
+[2025.05.27-12.27.13:559][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.27.13:559][ 73]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.27.13:560][ 73]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-12.27.13:583][ 73]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.27.13:583][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.27.13:583][ 73]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-12.27.13:587][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-12.27.13:593][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.27.13:623][ 73]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 107
+[2025.05.27-12.27.13:623][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=107
+[2025.05.27-12.27.13:625][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=107
+[2025.05.27-12.27.13:644][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.27-12.27.13:699][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2025.05.27-12.27.39:247][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.27.39:284][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.27.39:323][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.27.39:323][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.27.39:323][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.27.39:328][650]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.27.39:329][650]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes97DBA75A46CC149423B9598CAAF8F7F0.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.27.39:345][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.705 ms (total: 34.0 sec)
+[2025.05.27-12.27.39:395][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.27.39:395][650]LogContentValidation: Enabled validators:
+[2025.05.27-12.27.39:395][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.27.39:395][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.27.39:395][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.27.39:395][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.27.39:395][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.27.39:395][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.27.39:395][650]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.27.39:986][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.27-12.27.40:564][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.27.40:603][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.27.40:642][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.27.40:642][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.27.40:643][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.27.40:648][765]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.27.40:649][765]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesC39234D84B20C86E580F6B8D5EE78612.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.27.40:662][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.230 ms (total: 34.1 sec)
+[2025.05.27-12.27.40:713][765]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.27.40:713][765]LogContentValidation: Enabled validators:
+[2025.05.27-12.27.40:713][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.27.40:713][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.27.40:714][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.27.40:714][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.27.40:714][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.27.40:714][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.27.40:714][765]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.27.42:475][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-12.27.42:483][963]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-12.27.42:483][963]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-12.27.42:489][963]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 6.133 ms (total: 850.899 ms)
+[2025.05.27-12.27.42:489][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-12.27.42:489][963]LogPlayLevel: Display: Creating online subsystem for client :Context_119
+[2025.05.27-12.27.42:493][963]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2025.05.27-12.27.42:505][964]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.27.42:516][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010256s)
+[2025.05.27-12.27.42:516][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.010303s)
+[2025.05.27-12.27.42:535][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.27-12.27.42:539][964]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-12.27.42:540][964]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-12.27.42:540][964]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-12.27.42:540][964]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-12.27.42:540][964]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-12.27.42:549][964]LogWorldPartition: Display: WorldPartition initialize took 8.717 ms (total: 3.91 sec)
+[2025.05.27-12.27.42:549][964]LogPlayLevel: PIE: World Init took: (0.010538s)
+[2025.05.27-12.27.42:550][964]LogAudio: Display: Creating Audio Device:                 Id: 108, Scope: Unique, Realtime: True
+[2025.05.27-12.27.42:550][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-12.27.42:550][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-12.27.42:550][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-12.27.42:550][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-12.27.42:550][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-12.27.42:550][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-12.27.42:550][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-12.27.42:550][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-12.27.42:550][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-12.27.42:550][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-12.27.42:550][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-12.27.42:552][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-12.27.42:575][964]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-1000XM4)
+[2025.05.27-12.27.42:575][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-12.27.42:575][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-12.27.42:575][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-12.27.42:576][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=108
+[2025.05.27-12.27.42:576][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=108
+[2025.05.27-12.27.42:579][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=108
+[2025.05.27-12.27.42:579][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=108
+[2025.05.27-12.27.42:580][964]LogInit: FAudioDevice initialized with ID 108.
+[2025.05.27-12.27.42:580][964]LogAudio: Display: Audio Device (ID: 108) registered with world 'MainGame'.
+[2025.05.27-12.27.42:580][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 108
+[2025.05.27-12.27.42:613][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.27.42:613][964]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-12.27.42:616][964]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2025.05.27-14.27.42
+[2025.05.27-12.27.42:616][964]LogWorld: Bringing up level for play took: 0.002174
+[2025.05.27-12.27.42:624][964]LogStreaming: Display: FlushAsyncLoading(5749,5748,5747,5746,5745,5744,5743,5742,5741,5740,5739,5738,5737,5736,5735,5734,5733,5732,5731,5730,5729,5728,5727,5726,5725,5724,5723,5722,5721,5720,5719,5718,5717,5716,5715,5714,5711,5712,5713,5709,5710,5704,5705,5706,5707,5708,5703,5699,5700,5701,5702,5698,5697,5696): 54 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.27.42:849][964]PIE: Server logged in
+[2025.05.27-12.27.42:850][964]PIE: Play in editor total start time 0,368 seconds.
+[2025.05.27-12.28.09:359][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.28.09:359][567]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.28.09:359][567]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-12.28.09:383][567]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.28.09:384][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.28.09:384][567]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-12.28.09:387][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-12.28.09:393][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.28.09:422][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.27-12.28.09:422][567]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 108
+[2025.05.27-12.28.09:422][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=108
+[2025.05.27-12.28.09:425][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=108
+[2025.05.27-12.28.09:440][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.27-12.28.09:491][568]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2025.05.27-12.28.16:505][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8034.307617
+[2025.05.27-12.28.17:506][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-12.28.17:506][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8034.975586, Update Interval: 326.910004
+[2025.05.27-12.30.57:510][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.27-12.31.31:048][960]LogStreaming: Display: FlushAsyncLoading(5750): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.31.32:158][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.31.32:209][ 89]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.31.32:245][ 89]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.31.32:245][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.31.32:245][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.31.32:253][ 89]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.31.32:254][ 89]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesB196DEED418D7AF5B969FDA571393F1A.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.31.32:267][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.763 ms (total: 34.2 sec)
+[2025.05.27-12.31.32:311][ 89]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.31.32:313][ 89]LogContentValidation: Enabled validators:
+[2025.05.27-12.31.32:313][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.31.32:313][ 89]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.31.32:313][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.31.32:313][ 89]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.31.32:313][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.31.32:313][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.31.32:313][ 89]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.31.33:274][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.27-12.31.35:527][434]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-12.31.35:535][434]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-12.31.35:535][434]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-12.31.35:543][434]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 7.033 ms (total: 857.933 ms)
+[2025.05.27-12.31.35:543][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-12.31.35:543][434]LogPlayLevel: Display: Creating online subsystem for client :Context_120
+[2025.05.27-12.31.35:546][434]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2025.05.27-12.31.35:560][435]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.31.35:570][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010103s)
+[2025.05.27-12.31.35:570][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.010155s)
+[2025.05.27-12.31.35:589][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.27-12.31.35:593][435]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-12.31.35:594][435]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-12.31.35:594][435]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-12.31.35:594][435]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-12.31.35:595][435]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-12.31.35:602][435]LogWorldPartition: Display: WorldPartition initialize took 8.704 ms (total: 3.91 sec)
+[2025.05.27-12.31.35:603][435]LogPlayLevel: PIE: World Init took: (0.010579s)
+[2025.05.27-12.31.35:603][435]LogAudio: Display: Creating Audio Device:                 Id: 109, Scope: Unique, Realtime: True
+[2025.05.27-12.31.35:603][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-12.31.35:603][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-12.31.35:603][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-12.31.35:603][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-12.31.35:603][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-12.31.35:603][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-12.31.35:604][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-12.31.35:604][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-12.31.35:604][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-12.31.35:604][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-12.31.35:604][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-12.31.35:607][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-12.31.35:630][435]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-1000XM4)
+[2025.05.27-12.31.35:630][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-12.31.35:630][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-12.31.35:630][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-12.31.35:631][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=109
+[2025.05.27-12.31.35:631][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=109
+[2025.05.27-12.31.35:635][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=109
+[2025.05.27-12.31.35:635][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=109
+[2025.05.27-12.31.35:635][435]LogInit: FAudioDevice initialized with ID 109.
+[2025.05.27-12.31.35:635][435]LogAudio: Display: Audio Device (ID: 109) registered with world 'MainGame'.
+[2025.05.27-12.31.35:635][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 109
+[2025.05.27-12.31.35:673][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.31.35:673][435]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-12.31.35:675][435]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2025.05.27-14.31.35
+[2025.05.27-12.31.35:675][435]LogWorld: Bringing up level for play took: 0.002121
+[2025.05.27-12.31.35:683][435]LogStreaming: Display: FlushAsyncLoading(5804,5803,5802,5801,5800,5799,5798,5797,5796,5795,5794,5793,5792,5791,5790,5789,5788,5787,5786,5785,5784,5783,5782,5781,5780,5779,5778,5777,5776,5775,5774,5773,5772,5771,5770,5769,5766,5767,5768,5764,5765,5759,5760,5761,5762,5763,5758,5754,5755,5756,5757,5753,5752,5751): 54 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.31.35:911][435]PIE: Server logged in
+[2025.05.27-12.31.35:912][435]PIE: Play in editor total start time 0,377 seconds.
+[2025.05.27-12.32.03:969][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.32.03:969][875]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.32.03:970][875]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-12.32.03:994][875]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.32.03:995][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.32.03:995][875]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-12.32.03:999][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-12.32.04:005][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.32.04:036][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.27-12.32.04:036][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 109
+[2025.05.27-12.32.04:036][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=109
+[2025.05.27-12.32.04:039][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=109
+[2025.05.27-12.32.04:055][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.27-12.32.04:082][876]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2025.05.27-12.32.05:779][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.32.05:823][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.32.05:867][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes]
+[2025.05.27-12.32.05:867][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.32.05:867][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.32.05:874][ 79]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.32.05:876][ 79]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes90F0D18C4D6188ADD4F83FA9BDBFC4CA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.32.05:888][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.414 ms (total: 34.4 sec)
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: Enabled validators:
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.32.05:924][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.32.05:924][ 79]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.32.06:693][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.32.06:737][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.32.06:737][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.32.06:737][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.32.06:745][170]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.32.06:746][170]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes8DB74E794749E5EBA3D60BB9566E2945.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.32.06:758][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.916 ms (total: 34.4 sec)
+[2025.05.27-12.32.06:805][170]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.32.06:805][170]LogContentValidation: Enabled validators:
+[2025.05.27-12.32.06:805][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.32.06:805][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.32.06:805][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.32.06:805][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.32.06:805][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.32.06:805][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.32.06:806][170]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.32.09:065][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.32.09:112][438]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.32.09:112][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.32.09:112][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.32.09:121][438]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.32.09:122][438]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes067647E1479DD58146E3F791DE13E4A5.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.32.09:133][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.364 ms (total: 34.5 sec)
+[2025.05.27-12.32.09:181][438]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.32.09:181][438]LogContentValidation: Enabled validators:
+[2025.05.27-12.32.09:181][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.32.09:181][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.32.09:181][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.32.09:181][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.32.09:181][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.32.09:181][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.32.09:181][438]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-12.32.10:060][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-12.32.10:105][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-12.32.10:105][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-12.32.10:105][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-12.32.10:114][542]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-12.32.10:115][542]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_Boxes71D726EB4F480517A77DB0B9A5C3DD5E.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-12.32.10:127][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.495 ms (total: 34.6 sec)
+[2025.05.27-12.32.10:176][542]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-12.32.10:176][542]LogContentValidation: Enabled validators:
+[2025.05.27-12.32.10:176][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-12.32.10:176][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-12.32.10:176][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-12.32.10:177][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-12.32.10:177][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-12.32.10:177][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-12.32.10:177][542]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
