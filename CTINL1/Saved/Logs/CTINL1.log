@@ -11848,3 +11848,682 @@ Sampler Limit: 32
 [2025.05.27-12.40.20:827][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8758.687500
 [2025.05.27-12.40.21:826][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.27-12.40.21:826][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8759.351562, Update Interval: 313.194977
+[2025.05.27-12.46.30:636][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9128.443359
+[2025.05.27-12.46.31:635][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-12.46.31:635][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9129.099609, Update Interval: 334.776459
+[2025.05.27-12.53.02:954][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9520.760742
+[2025.05.27-12.53.03:954][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-12.53.03:954][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9521.427734, Update Interval: 300.265503
+[2025.05.27-12.56.37:820][159]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-12.56.37:840][159]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-12.56.37:840][159]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-12.56.37:853][159]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 13.465 ms (total: 900.820 ms)
+[2025.05.27-12.56.37:853][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-12.56.37:854][159]LogPlayLevel: Display: Creating online subsystem for client :Context_123
+[2025.05.27-12.56.37:859][159]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2025.05.27-12.56.37:886][160]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.56.37:908][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022774s)
+[2025.05.27-12.56.37:908][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.022858s)
+[2025.05.27-12.56.37:951][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2025.05.27-12.56.37:955][160]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-12.56.37:957][160]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-12.56.37:957][160]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-12.56.37:957][160]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-12.56.37:957][160]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-12.56.37:977][160]LogWorldPartition: Display: WorldPartition initialize took 19.563 ms (total: 3.97 sec)
+[2025.05.27-12.56.37:978][160]LogPlayLevel: PIE: World Init took: (0.022720s)
+[2025.05.27-12.56.37:979][160]LogAudio: Display: Creating Audio Device:                 Id: 112, Scope: Unique, Realtime: True
+[2025.05.27-12.56.37:979][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-12.56.37:979][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-12.56.37:979][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-12.56.37:979][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-12.56.37:979][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-12.56.37:979][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-12.56.37:979][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-12.56.37:980][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-12.56.37:980][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-12.56.37:980][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-12.56.37:980][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-12.56.37:985][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-12.56.38:118][160]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.05.27-12.56.38:118][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-12.56.38:119][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-12.56.38:119][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-12.56.38:119][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=112
+[2025.05.27-12.56.38:119][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=112
+[2025.05.27-12.56.38:125][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=112
+[2025.05.27-12.56.38:126][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=112
+[2025.05.27-12.56.38:126][160]LogInit: FAudioDevice initialized with ID 112.
+[2025.05.27-12.56.38:126][160]LogAudio: Display: Audio Device (ID: 112) registered with world 'MainGame'.
+[2025.05.27-12.56.38:126][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 112
+[2025.05.27-12.56.38:202][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.56.38:202][160]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-12.56.38:206][160]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2025.05.27-14.56.38
+[2025.05.27-12.56.38:207][160]LogWorld: Bringing up level for play took: 0.004628
+[2025.05.27-12.56.38:227][160]LogStreaming: Display: FlushAsyncLoading(5966,5965,5964,5963,5962,5961,5960,5959,5958,5957,5956,5955,5954,5953,5952,5951,5950,5949,5948,5947,5946,5945,5944,5943,5942,5941,5940,5939,5938,5937,5936,5935,5934,5933,5932,5931,5928,5929,5930,5926,5927,5921,5922,5923,5924,5925,5920,5916,5917,5918,5919,5915,5914,5913): 54 QueuedPackages, 0 AsyncPackages
+[2025.05.27-12.56.38:797][160]PIE: Server logged in
+[2025.05.27-12.56.38:798][160]PIE: Play in editor total start time 0,958 seconds.
+[2025.05.27-12.57.05:376][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-12.57.05:376][451]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-12.57.05:377][451]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-12.57.05:430][451]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-12.57.05:431][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.57.05:431][451]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-12.57.05:438][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-12.57.05:450][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-12.57.05:504][451]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 112
+[2025.05.27-12.57.05:505][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=112
+[2025.05.27-12.57.05:510][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=112
+[2025.05.27-12.57.05:541][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.05.27-12.57.05:706][452]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2025.05.27-12.58.41:407][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9859.217773
+[2025.05.27-12.58.41:572][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-12.58.41:572][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9859.364258, Update Interval: 308.379150
+[2025.05.27-13.04.26:281][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10204.085938
+[2025.05.27-13.04.27:282][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.04.27:283][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10204.751953, Update Interval: 321.821350
+[2025.05.27-13.07.20:021][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-13.07.20:030][530]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-13.07.20:030][530]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-13.07.20:035][530]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 6.208 ms (total: 907.029 ms)
+[2025.05.27-13.07.20:036][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-13.07.20:036][530]LogPlayLevel: Display: Creating online subsystem for client :Context_124
+[2025.05.27-13.07.20:040][530]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2025.05.27-13.07.20:054][531]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-13.07.20:065][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011737s)
+[2025.05.27-13.07.20:065][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.011789s)
+[2025.05.27-13.07.20:089][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.05.27-13.07.20:093][531]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-13.07.20:095][531]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-13.07.20:095][531]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-13.07.20:095][531]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-13.07.20:095][531]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-13.07.20:104][531]LogWorldPartition: Display: WorldPartition initialize took 8.840 ms (total: 3.98 sec)
+[2025.05.27-13.07.20:104][531]LogPlayLevel: PIE: World Init took: (0.010857s)
+[2025.05.27-13.07.20:105][531]LogAudio: Display: Creating Audio Device:                 Id: 113, Scope: Unique, Realtime: True
+[2025.05.27-13.07.20:105][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-13.07.20:105][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-13.07.20:105][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-13.07.20:105][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-13.07.20:105][531]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-13.07.20:105][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-13.07.20:105][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-13.07.20:105][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-13.07.20:105][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-13.07.20:105][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-13.07.20:105][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-13.07.20:107][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-13.07.20:163][531]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.05.27-13.07.20:164][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-13.07.20:164][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-13.07.20:164][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-13.07.20:165][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=113
+[2025.05.27-13.07.20:165][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=113
+[2025.05.27-13.07.20:168][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=113
+[2025.05.27-13.07.20:168][531]LogInit: FAudioDevice initialized with ID 113.
+[2025.05.27-13.07.20:168][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=113
+[2025.05.27-13.07.20:168][531]LogAudio: Display: Audio Device (ID: 113) registered with world 'MainGame'.
+[2025.05.27-13.07.20:168][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 113
+[2025.05.27-13.07.20:201][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-13.07.20:201][531]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-13.07.20:204][531]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2025.05.27-15.07.20
+[2025.05.27-13.07.20:204][531]LogWorld: Bringing up level for play took: 0.002478
+[2025.05.27-13.07.20:212][531]LogStreaming: Display: FlushAsyncLoading(6020,6019,6018,6017,6016,6015,6014,6013,6012,6011,6010,6009,6008,6007,6006,6005,6004,6003,6002,6001,6000,5999,5998,5997,5996,5995,5994,5993,5992,5991,5990,5989,5988,5987,5986,5985,5982,5983,5984,5980,5981,5975,5976,5977,5978,5979,5974,5970,5971,5972,5973,5969,5968,5967): 54 QueuedPackages, 0 AsyncPackages
+[2025.05.27-13.07.20:450][531]PIE: Server logged in
+[2025.05.27-13.07.20:451][531]PIE: Play in editor total start time 0,421 seconds.
+[2025.05.27-13.09.06:118][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-13.09.06:118][476]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-13.09.06:118][476]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-13.09.06:140][476]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.09.06:141][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.09.06:141][476]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-13.09.06:147][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-13.09.06:153][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.09.06:185][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 113
+[2025.05.27-13.09.06:185][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=113
+[2025.05.27-13.09.06:188][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=113
+[2025.05.27-13.09.06:203][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.05.27-13.09.06:284][477]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2025.05.27-13.10.40:427][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10578.211914
+[2025.05.27-13.10.40:552][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.10.40:552][760]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10578.330078, Update Interval: 351.179535
+[2025.05.27-13.16.05:355][648]LogDerivedDataCache: C:/Users/elinf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.27-13.17.00:217][926]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-13.17.00:231][926]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-13.17.00:232][926]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-13.17.00:241][926]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 8.800 ms (total: 915.830 ms)
+[2025.05.27-13.17.00:241][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-13.17.00:242][926]LogPlayLevel: Display: Creating online subsystem for client :Context_125
+[2025.05.27-13.17.00:245][926]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.05.27-13.17.00:264][927]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-13.17.00:279][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016085s)
+[2025.05.27-13.17.00:279][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.016161s)
+[2025.05.27-13.17.00:303][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.27-13.17.00:308][927]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-13.17.00:310][927]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-13.17.00:310][927]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-13.17.00:310][927]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-13.17.00:310][927]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-13.17.00:319][927]LogWorldPartition: Display: WorldPartition initialize took 8.880 ms (total: 3.99 sec)
+[2025.05.27-13.17.00:319][927]LogPlayLevel: PIE: World Init took: (0.010841s)
+[2025.05.27-13.17.00:320][927]LogAudio: Display: Creating Audio Device:                 Id: 114, Scope: Unique, Realtime: True
+[2025.05.27-13.17.00:320][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-13.17.00:320][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-13.17.00:320][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-13.17.00:320][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-13.17.00:320][927]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-13.17.00:320][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-13.17.00:320][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-13.17.00:320][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-13.17.00:320][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-13.17.00:320][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-13.17.00:320][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-13.17.00:323][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-13.17.00:380][927]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.05.27-13.17.00:380][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-13.17.00:380][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-13.17.00:380][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-13.17.00:381][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=114
+[2025.05.27-13.17.00:381][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=114
+[2025.05.27-13.17.00:384][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=114
+[2025.05.27-13.17.00:384][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=114
+[2025.05.27-13.17.00:384][927]LogInit: FAudioDevice initialized with ID 114.
+[2025.05.27-13.17.00:385][927]LogAudio: Display: Audio Device (ID: 114) registered with world 'MainGame'.
+[2025.05.27-13.17.00:385][927]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 114
+[2025.05.27-13.17.00:425][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-13.17.00:425][927]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-13.17.00:427][927]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2025.05.27-15.17.00
+[2025.05.27-13.17.00:427][927]LogWorld: Bringing up level for play took: 0.002500
+[2025.05.27-13.17.00:435][927]LogStreaming: Display: FlushAsyncLoading(6074,6073,6072,6071,6070,6069,6068,6067,6066,6065,6064,6063,6062,6061,6060,6059,6058,6057,6056,6055,6054,6053,6052,6051,6050,6049,6048,6047,6046,6045,6044,6043,6042,6041,6040,6039,6036,6037,6038,6034,6035,6029,6030,6031,6032,6033,6028,6024,6025,6026,6027,6023,6022,6021): 54 QueuedPackages, 0 AsyncPackages
+[2025.05.27-13.17.00:682][927]PIE: Server logged in
+[2025.05.27-13.17.00:683][927]PIE: Play in editor total start time 0,452 seconds.
+[2025.05.27-13.17.17:373][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10975.163086
+[2025.05.27-13.17.17:497][634]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.17.17:497][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10975.275391, Update Interval: 357.597595
+[2025.05.27-13.18.43:304][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-13.18.43:304][440]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-13.18.43:304][440]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-13.18.43:327][440]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.18.43:327][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.18.43:327][440]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-13.18.43:330][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-13.18.43:337][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.18.43:367][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 114
+[2025.05.27-13.18.43:367][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=114
+[2025.05.27-13.18.43:370][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=114
+[2025.05.27-13.18.43:386][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.27-13.18.43:470][441]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2025.05.27-13.19.27:820][849]Cmd: SELECT NONE
+[2025.05.27-13.19.40:139][991]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.19.40:139][991]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.19.40:141][991]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_5
+[2025.05.27-13.19.40:143][991]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_5
+[2025.05.27-13.19.49:485][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.27-13.19.49:492][624]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.05.27-13.19.49:497][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.19.49:497][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.19.49:502][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E5B6C02_1450427577
+[2025.05.27-13.19.49:504][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E5B6C02_1450427577
+[2025.05.27-13.20.18:338][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.18:338][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.18:341][769]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_6
+[2025.05.27-13.20.18:342][769]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_6
+[2025.05.27-13.20.20:961][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.27-13.20.20:967][925]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.05.27-13.20.20:973][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.20:973][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.20:976][925]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E5B6C02_1481903578
+[2025.05.27-13.20.20:979][925]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E5B6C02_1481903578
+[2025.05.27-13.20.35:960][ 40]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.35:960][ 40]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.35:963][ 40]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_7
+[2025.05.27-13.20.35:965][ 40]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_7
+[2025.05.27-13.20.41:447][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.27-13.20.41:453][394]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.05.27-13.20.41:459][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.41:459][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Boxes.BP_Boxes_C
+[2025.05.27-13.20.41:463][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E5B6C02_1502389579
+[2025.05.27-13.20.41:465][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Boxes.BP_Boxes as actor: BP_Boxes_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E5B6C02_1502389579
+[2025.05.27-13.20.50:883][106]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.27-13.20.50:892][106]LogContentBundle: [MainGame(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.27-13.20.50:892][106]LogWorldPartition: Display: GenerateStreaming for 'MainGame' started...
+[2025.05.27-13.20.50:899][106]LogWorldPartition: Display: GenerateStreaming for 'MainGame' took 7.296 ms (total: 923.127 ms)
+[2025.05.27-13.20.50:899][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.27-13.20.50:899][106]LogPlayLevel: Display: Creating online subsystem for client :Context_126
+[2025.05.27-13.20.50:903][106]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2025.05.27-13.20.50:918][107]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-13.20.50:935][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017769s)
+[2025.05.27-13.20.50:935][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MainGame.MainGame to /Game/Map/UEDPIE_0_MainGame.MainGame (0.017822s)
+[2025.05.27-13.20.50:957][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.27-13.20.50:961][107]LogChaosDD: Creating Chaos Debug Draw Scene for world MainGame
+[2025.05.27-13.20.50:962][107]LogWorldPartition: ULevel::OnLevelLoaded(MainGame)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.27-13.20.50:962][107]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.27-13.20.50:962][107]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.27-13.20.50:962][107]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.27-13.20.50:971][107]LogWorldPartition: Display: WorldPartition initialize took 9.130 ms (total: 4.00 sec)
+[2025.05.27-13.20.50:971][107]LogPlayLevel: PIE: World Init took: (0.010934s)
+[2025.05.27-13.20.50:972][107]LogAudio: Display: Creating Audio Device:                 Id: 115, Scope: Unique, Realtime: True
+[2025.05.27-13.20.50:972][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.27-13.20.50:972][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.27-13.20.50:972][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.27-13.20.50:972][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.27-13.20.50:972][107]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.27-13.20.50:972][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.27-13.20.50:972][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.27-13.20.50:972][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.27-13.20.50:972][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.27-13.20.50:972][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.27-13.20.50:972][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.27-13.20.50:975][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.27-13.20.51:031][107]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.05.27-13.20.51:031][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.27-13.20.51:031][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.27-13.20.51:031][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.27-13.20.51:032][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=115
+[2025.05.27-13.20.51:032][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=115
+[2025.05.27-13.20.51:035][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=115
+[2025.05.27-13.20.51:035][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=115
+[2025.05.27-13.20.51:035][107]LogInit: FAudioDevice initialized with ID 115.
+[2025.05.27-13.20.51:035][107]LogAudio: Display: Audio Device (ID: 115) registered with world 'MainGame'.
+[2025.05.27-13.20.51:035][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 115
+[2025.05.27-13.20.51:111][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-13.20.51:111][107]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.27-13.20.51:114][107]LogWorld: Bringing World /Game/Map/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2025.05.27-15.20.51
+[2025.05.27-13.20.51:114][107]LogWorld: Bringing up level for play took: 0.002242
+[2025.05.27-13.20.51:139][107]LogStreaming: Display: FlushAsyncLoading(6114,6113,6112,6111,6110,6109,6108,6107,6106,6105,6104,6103,6102,6101,6100,6099,6098,6097,6096,6095,6094,6093,6092,6091,6090,6089,6088,6087,6086,6085,6084,6083,6082,6081,6080,6079,6078,6077,6076,6075): 40 QueuedPackages, 0 AsyncPackages
+[2025.05.27-13.20.51:343][107]PIE: Server logged in
+[2025.05.27-13.20.51:344][107]PIE: Play in editor total start time 0,452 seconds.
+[2025.05.27-13.21.09:110][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.27-13.21.09:110][844]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MainGame
+[2025.05.27-13.21.09:110][844]LogSlate: Window 'CTINL1 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.27-13.21.09:132][844]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.21.09:132][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.21.09:132][844]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/UEDPIE_0_MainGame.MainGame
+[2025.05.27-13.21.09:138][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.27-13.21.09:144][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.21.09:176][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 115
+[2025.05.27-13.21.09:176][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2025.05.27-13.21.09:178][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2025.05.27-13.21.09:195][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.27-13.21.09:246][845]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.05.27-13.21.36:625][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.27-13.21.36:629][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J_Auto6
+[2025.05.27-13.21.36:629][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1CDLESWOO34KZ0CGG5AD2J_Auto68A2B5150412725AE76665F8D6EA15A18.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J_Auto6.uasset'
+[2025.05.27-13.21.36:632][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ_Auto6
+[2025.05.27-13.21.36:632][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/2ASFN1BZB23IYGV3S7N9LQ_Auto60C5A33AE409C3CA965C652BA525F40D2.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ_Auto6.uasset'
+[2025.05.27-13.21.36:634][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS_Auto6
+[2025.05.27-13.21.36:635][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/L3MEJ08U26ZTC46DMHJUIS_Auto6FF087A834D847658AB10B9A99D4E73DC.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS_Auto6.uasset'
+[2025.05.27-13.21.36:637][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ_Auto6
+[2025.05.27-13.21.36:637][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/54NX6FGYB3D4O3WXBMXTAZ_Auto691A1F4324290BD922001BBADC833310D.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ_Auto6.uasset'
+[2025.05.27-13.21.36:639][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR_Auto6
+[2025.05.27-13.21.36:640][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7XUGDRZF2FRG6TMV7GFWGR_Auto69B61288145D1016E23CE228A5880DBEC.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR_Auto6.uasset'
+[2025.05.27-13.21.36:642][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/7/M9/7338BOOAZK51GEJGHRWFZF_Auto6
+[2025.05.27-13.21.36:643][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7338BOOAZK51GEJGHRWFZF_Auto69C41D69D43BD27F0B4E1C79C2DFCB1A4.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/7/M9/7338BOOAZK51GEJGHRWFZF_Auto6.uasset'
+[2025.05.27-13.21.36:646][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/B/T2/0Q6BGI5KS0G5XW582IUAUW_Auto6
+[2025.05.27-13.21.36:646][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/0Q6BGI5KS0G5XW582IUAUW_Auto61E0EF3BE442334DB60BDE7BF961D8B83.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/B/T2/0Q6BGI5KS0G5XW582IUAUW_Auto6.uasset'
+[2025.05.27-13.21.36:650][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/E/FH/Z3GKMW45CEJMXNWZFMLGKA_Auto6
+[2025.05.27-13.21.36:650][347]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Z3GKMW45CEJMXNWZFMLGKA_Auto6BC41DBD843DDD77193078D960E493113.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/E/FH/Z3GKMW45CEJMXNWZFMLGKA_Auto6.uasset'
+[2025.05.27-13.21.36:651][347]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/MainGame' took 0.049
+[2025.05.27-13.21.36:651][347]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2025.05.27-13.24.06:576][797]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11384.284180
+[2025.05.27-13.24.07:578][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.24.07:578][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11384.951172, Update Interval: 316.549591
+[2025.05.27-13.25.15:602][229]LogStreaming: Display: FlushAsyncLoading(6115): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.27-13.25.46:784][971]LogStreaming: Display: FlushAsyncLoading(6116): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.27-13.25.49:657][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-13.25.49:705][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Boxes] ([2] browsable assets)...
+[2025.05.27-13.25.49:705][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boxes]
+[2025.05.27-13.25.49:705][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boxes" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset" SILENT=true
+[2025.05.27-13.25.49:714][169]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boxes
+[2025.05.27-13.25.49:715][169]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesF01A39BC4AF416B49BBD2492F416B455.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_Boxes.uasset'
+[2025.05.27-13.25.49:729][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.542 ms (total: 35.0 sec)
+[2025.05.27-13.25.49:777][169]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-13.25.49:777][169]LogContentValidation: Enabled validators:
+[2025.05.27-13.25.49:778][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-13.25.49:778][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-13.25.49:778][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-13.25.49:778][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-13.25.49:778][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-13.25.49:778][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-13.25.49:778][169]AssetCheck: /Game/Blueprints/BP_Boxes Validating asset
+[2025.05.27-13.26.01:424][ 73]LogContentBrowser: Deferred new asset file creation: BP_Boxes1
+[2025.05.27-13.26.01:434][ 73]LogContentBrowser: Creating deferred item: BP_Boxes1
+[2025.05.27-13.26.01:449][ 74]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Boxes1).
+[2025.05.27-13.26.04:117][277]LogContentBrowser: Attempting asset rename: BP_Boxes1 -> BP_Boxes1
+[2025.05.27-13.26.04:157][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.27-13.26.04:190][277]LogContentBrowser: End creating deferred item BP_Boxes1
+[2025.05.27-13.26.04:192][277]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.05.27-13.26.12:811][867]LogContentBrowser: Attempting asset rename: BP_Boxes1 -> BP_BoxesStem
+[2025.05.27-13.26.13:031][867]LogMetaData: Removing '/Game/Blueprints/BP_BoxesStem.SKEL_BP_BoxesStem_C' ref from Metadata '/Game/Blueprints/BP_Boxes1.PackageMetaData'
+[2025.05.27-13.26.13:031][867]LogMetaData: Removing '/Game/Blueprints/BP_BoxesStem.BP_BoxesStem_C' ref from Metadata '/Game/Blueprints/BP_Boxes1.PackageMetaData'
+[2025.05.27-13.26.13:031][867]LogMetaData: Removing '/Game/Blueprints/BP_BoxesStem.SKEL_BP_BoxesStem_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Boxes1.PackageMetaData'
+[2025.05.27-13.26.13:031][867]LogMetaData: Removing '/Game/Blueprints/BP_BoxesStem.SKEL_BP_BoxesStem_C:BndEvt__BP_Boxes_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_Boxes1.PackageMetaData'
+[2025.05.27-13.26.13:032][867]LogMetaData: Removing '/Game/Blueprints/BP_BoxesStem.SKEL_BP_BoxesStem_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Boxes1.PackageMetaData'
+[2025.05.27-13.26.13:032][867]LogMetaData: Removing '/Game/Blueprints/BP_BoxesStem.BP_BoxesStem_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Boxes1.PackageMetaData'
+[2025.05.27-13.26.13:039][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-13.26.13:039][867]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_BoxesStem] ([2] browsable assets)...
+[2025.05.27-13.26.13:039][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.05.27-13.26.13:075][867]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_BoxesStem.BP_BoxesStem]
+[2025.05.27-13.26.13:075][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BoxesStem]
+[2025.05.27-13.26.13:075][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BoxesStem" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset" SILENT=true
+[2025.05.27-13.26.13:083][867]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BoxesStem
+[2025.05.27-13.26.13:083][867]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesStem02013B3B4D095FEBA8AA84944DD247F8.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset'
+[2025.05.27-13.26.13:089][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.316 ms (total: 35.1 sec)
+[2025.05.27-13.26.13:124][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.27-13.26.13:151][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.27-13.26.13:174][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.27-13.26.13:237][867]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-13.26.13:237][867]LogContentValidation: Enabled validators:
+[2025.05.27-13.26.13:237][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-13.26.13:238][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-13.26.13:238][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-13.26.13:238][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-13.26.13:238][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-13.26.13:238][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-13.26.13:238][867]AssetCheck: /Game/Blueprints/BP_BoxesStem Validating asset
+[2025.05.27-13.26.21:067][367]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_BoxesStem.BP_BoxesStem_C
+[2025.05.27-13.26.21:068][367]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_BoxesStem.BP_BoxesStem as actor: BP_BoxesStem_C /Game/Map/MainGame.MainGame:PersistentLevel.BP_Boxes_C_UAID_88A4C2DD7A6E586C02_1484631046
+[2025.05.27-13.26.23:767][551]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BoxesStem.BP_BoxesStem
+[2025.05.27-13.26.23:767][551]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.05.27-13.26.37:071][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-13.26.37:119][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_BoxesStem] ([2] browsable assets)...
+[2025.05.27-13.26.37:119][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BoxesStem]
+[2025.05.27-13.26.37:119][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BoxesStem" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset" SILENT=true
+[2025.05.27-13.26.37:125][671]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BoxesStem
+[2025.05.27-13.26.37:125][671]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesStemCC03B93F4DB1938C979595ADF2D127B5.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset'
+[2025.05.27-13.26.37:138][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.878 ms (total: 35.1 sec)
+[2025.05.27-13.26.37:189][671]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-13.26.37:189][671]LogContentValidation: Enabled validators:
+[2025.05.27-13.26.37:189][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-13.26.37:189][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-13.26.37:189][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-13.26.37:189][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-13.26.37:189][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-13.26.37:189][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-13.26.37:189][671]AssetCheck: /Game/Blueprints/BP_BoxesStem Validating asset
+[2025.05.27-13.26.37:785][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-13.26.37:834][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_BoxesStem] ([2] browsable assets)...
+[2025.05.27-13.26.37:834][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BoxesStem]
+[2025.05.27-13.26.37:834][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BoxesStem" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset" SILENT=true
+[2025.05.27-13.26.37:841][720]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BoxesStem
+[2025.05.27-13.26.37:842][720]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesStem2E86D41C4DC28A72B1C01987A4C41E83.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset'
+[2025.05.27-13.26.37:854][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.945 ms (total: 35.2 sec)
+[2025.05.27-13.26.37:911][720]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-13.26.37:911][720]LogContentValidation: Enabled validators:
+[2025.05.27-13.26.37:911][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-13.26.37:911][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-13.26.37:911][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-13.26.37:911][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-13.26.37:911][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-13.26.37:911][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-13.26.37:911][720]AssetCheck: /Game/Blueprints/BP_BoxesStem Validating asset
+[2025.05.27-13.26.44:571][235]LogShaderCompilers: Display: ================================================
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Total job queries 497, among them cache hits 40 (8.05%), DDC hits 175 (35.21%), Duplicates 8 (1.61%)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Tracking 449 distinct input hashes that result in 342 distinct outputs (76.17%)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: RAM used: 194,92 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Shaders Compiled: 274
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Jobs assigned 274, completed 274 (100%)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Average time worker was idle: 283.14 s
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.10 s
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 3.89 s
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 3.98
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Shader code size: average 7,608 KiB, min 2,785 KiB, max 15,953 KiB
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 81.70 s
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Jobs were issued in 274 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Average processing rate: 3.35 jobs/sec
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Total thread time: 215,556 s
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Total thread preprocess time: 15,014 s
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Percentage time preprocessing: 6.97%
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   15 times, average 1.47 sec, max 2.28 sec, min 1.06 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   35 times, average 1.29 sec, max 2.21 sec, min 0.99 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   52 times, average 0.80 sec, max 1.30 sec, min 0.53 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.77 sec, max 0.82 sec, min 0.74 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.75 sec, max 0.80 sec, min 0.70 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.01% of total time (compiled   35 times, average 1.29 sec, max 2.21 sec, min 0.99 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.34% of total time (compiled   52 times, average 0.80 sec, max 1.30 sec, min 0.53 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.86% of total time (compiled   51 times, average 0.54 sec, max 0.96 sec, min 0.36 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.97% of total time (compiled   41 times, average 0.63 sec, max 1.01 sec, min 0.44 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 10.25% of total time (compiled   15 times, average 1.47 sec, max 2.28 sec, min 1.06 sec)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: === Material stats ===
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Materials Translated:    137
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Material Translation Only: 0.12 s (46%)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: Material Cache Hits: 19 (14%)
+[2025.05.27-13.26.44:572][235]LogShaderCompilers: Display: ================================================
+[2025.05.27-13.29.40:552][282]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.27-13.29.57:282][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11734.850586
+[2025.05.27-13.29.57:443][580]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.29.57:443][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11735.000000, Update Interval: 303.751953
+[2025.05.27-13.30.11:965][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MainPlayer.BP_MainPlayer
+[2025.05.27-13.30.11:966][726]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.05.27-13.33.25:996][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.27-13.34.47:473][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.27-13.34.47:481][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J_Auto7
+[2025.05.27-13.34.47:481][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1CDLESWOO34KZ0CGG5AD2J_Auto79C7952024D7E6C83FECE3CBA3C2BE2BA.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J_Auto7.uasset'
+[2025.05.27-13.34.47:483][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ_Auto7
+[2025.05.27-13.34.47:483][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/2ASFN1BZB23IYGV3S7N9LQ_Auto7054327DB442E5BA0993D289B7885A1CC.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ_Auto7.uasset'
+[2025.05.27-13.34.47:485][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS_Auto7
+[2025.05.27-13.34.47:485][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/L3MEJ08U26ZTC46DMHJUIS_Auto721ACFA03477631545A97AF967C8C65F5.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS_Auto7.uasset'
+[2025.05.27-13.34.47:487][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ_Auto7
+[2025.05.27-13.34.47:487][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/54NX6FGYB3D4O3WXBMXTAZ_Auto761305CB746533C31079C9C9044CB73FD.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ_Auto7.uasset'
+[2025.05.27-13.34.47:489][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR_Auto7
+[2025.05.27-13.34.47:490][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7XUGDRZF2FRG6TMV7GFWGR_Auto7626A4598484269791C9AEB994669FF7C.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR_Auto7.uasset'
+[2025.05.27-13.34.47:493][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/7/M9/7338BOOAZK51GEJGHRWFZF_Auto7
+[2025.05.27-13.34.47:493][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7338BOOAZK51GEJGHRWFZF_Auto76AD13D3E423FB205528267BC90F1CB50.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/7/M9/7338BOOAZK51GEJGHRWFZF_Auto7.uasset'
+[2025.05.27-13.34.47:495][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/B/T2/0Q6BGI5KS0G5XW582IUAUW_Auto7
+[2025.05.27-13.34.47:495][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/0Q6BGI5KS0G5XW582IUAUW_Auto72291C858435691AEB44244A339D6A6B5.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/B/T2/0Q6BGI5KS0G5XW582IUAUW_Auto7.uasset'
+[2025.05.27-13.34.47:498][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/E/FH/Z3GKMW45CEJMXNWZFMLGKA_Auto7
+[2025.05.27-13.34.47:498][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Z3GKMW45CEJMXNWZFMLGKA_Auto7873AD2E34633243D4B3580ACF7619379.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/E/FH/Z3GKMW45CEJMXNWZFMLGKA_Auto7.uasset'
+[2025.05.27-13.34.47:499][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/MainGame' took 0.050
+[2025.05.27-13.34.47:499][371]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2025.05.27-13.34.47:499][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MainPlayer] ([2] browsable assets)...
+[2025.05.27-13.34.47:538][371]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MainPlayer.BP_MainPlayer]
+[2025.05.27-13.34.47:538][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainPlayer]
+[2025.05.27-13.34.47:546][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_MainPlayer_Auto7
+[2025.05.27-13.34.47:546][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_MainPlayer_Auto7F953364D445E9D4FA601AE8D744041FF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/Blueprints/BP_MainPlayer_Auto7.uasset'
+[2025.05.27-13.34.47:548][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_BoxesStem] ([2] browsable assets)...
+[2025.05.27-13.34.47:555][371]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_BoxesStem.BP_BoxesStem]
+[2025.05.27-13.34.47:556][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BoxesStem]
+[2025.05.27-13.34.47:563][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_BoxesStem_Auto7
+[2025.05.27-13.34.47:563][371]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesStem_Auto78846589742574BAF7BBB0B9088149561.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/Blueprints/BP_BoxesStem_Auto7.uasset'
+[2025.05.27-13.34.47:564][371]LogFileHelpers: Auto-saving content packages took 0.065
+[2025.05.27-13.34.59:617][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.27-13.35.35:090][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12072.587891
+[2025.05.27-13.35.35:215][552]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.35.35:215][552]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12072.701172, Update Interval: 331.103241
+[2025.05.27-13.42.00:128][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12457.782227
+[2025.05.27-13.42.01:128][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.42.01:128][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12458.449219, Update Interval: 328.276001
+[2025.05.27-13.44.47:677][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.05.27-13.44.47:683][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ_Auto8
+[2025.05.27-13.44.47:683][751]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/2ASFN1BZB23IYGV3S7N9LQ_Auto83BB43C5548EBD62B3D2E5692BB412759.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ_Auto8.uasset'
+[2025.05.27-13.44.47:685][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/MainGame' took 0.035
+[2025.05.27-13.44.47:685][751]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2025.05.27-13.44.47:686][751]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_BoxesStem] ([2] browsable assets)...
+[2025.05.27-13.44.47:715][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_BoxesStem.BP_BoxesStem]
+[2025.05.27-13.44.47:715][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BoxesStem]
+[2025.05.27-13.44.47:722][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_BoxesStem_Auto8
+[2025.05.27-13.44.47:722][751]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesStem_Auto8457AC1B24CF98E1A610CD2A1D8EDF261.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Autosaves/Game/Blueprints/BP_BoxesStem_Auto8.uasset'
+[2025.05.27-13.44.47:723][751]LogFileHelpers: Auto-saving content packages took 0.038
+[2025.05.27-13.48.19:423][107]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12837.151367
+[2025.05.27-13.48.20:424][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.27-13.48.20:424][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12837.817383, Update Interval: 357.255157
+[2025.05.27-13.52.33:220][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-13.52.33:272][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_BoxesStem] ([2] browsable assets)...
+[2025.05.27-13.52.33:272][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BoxesStem]
+[2025.05.27-13.52.33:272][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BoxesStem" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset" SILENT=true
+[2025.05.27-13.52.33:279][659]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BoxesStem
+[2025.05.27-13.52.33:280][659]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_BoxesStem945DA96E4095134966CB5594763BC418.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_BoxesStem.uasset'
+[2025.05.27-13.52.33:293][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.852 ms (total: 35.3 sec)
+[2025.05.27-13.52.33:343][659]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-13.52.33:343][659]LogContentValidation: Enabled validators:
+[2025.05.27-13.52.33:343][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-13.52.33:343][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-13.52.33:343][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-13.52.33:343][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-13.52.33:343][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-13.52.33:343][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-13.52.33:343][659]AssetCheck: /Game/Blueprints/BP_BoxesStem Validating asset
+[2025.05.27-13.52.36:061][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-13.52.36:112][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_MainPlayer] ([2] browsable assets)...
+[2025.05.27-13.52.36:112][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainPlayer]
+[2025.05.27-13.52.36:112][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainPlayer" FILE="../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_MainPlayer.uasset" SILENT=true
+[2025.05.27-13.52.36:120][931]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MainPlayer
+[2025.05.27-13.52.36:121][931]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/BP_MainPlayer08FE662641F2735D7CC134AA8EECA4C9.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/Blueprints/BP_MainPlayer.uasset'
+[2025.05.27-13.52.36:135][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.689 ms (total: 35.4 sec)
+[2025.05.27-13.52.36:183][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.27-13.52.36:183][931]LogContentValidation: Enabled validators:
+[2025.05.27-13.52.36:183][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-13.52.36:183][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-13.52.36:183][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-13.52.36:183][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-13.52.36:183][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-13.52.36:183][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-13.52.36:183][931]AssetCheck: /Game/Blueprints/BP_MainPlayer Validating asset
+[2025.05.27-13.52.38:396][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.27-13.52.39:804][187]LogSlate: Window 'Save Content' being destroyed
+[2025.05.27-13.52.39:821][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.27-13.52.39:873][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS
+[2025.05.27-13.52.39:874][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/L3MEJ08U26ZTC46DMHJUIS85AF07CC441F9C6A89E1DD8B4219CE2A.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/7/30/L3MEJ08U26ZTC46DMHJUIS.uasset'
+[2025.05.27-13.52.39:877][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J
+[2025.05.27-13.52.39:878][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/1CDLESWOO34KZ0CGG5AD2J3C880680470BE654F1058D9EAA808E52.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/7/JR/1CDLESWOO34KZ0CGG5AD2J.uasset'
+[2025.05.27-13.52.39:882][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ
+[2025.05.27-13.52.39:883][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/2ASFN1BZB23IYGV3S7N9LQD9956A74412DA1DE8BE67F8BBE406AD8.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/1/V8/2ASFN1BZB23IYGV3S7N9LQ.uasset'
+[2025.05.27-13.52.39:887][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR
+[2025.05.27-13.52.39:888][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7XUGDRZF2FRG6TMV7GFWGRD57140684B62AACBB7DF83B65C588BBD.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/C/HX/7XUGDRZF2FRG6TMV7GFWGR.uasset'
+[2025.05.27-13.52.39:891][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ
+[2025.05.27-13.52.39:892][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/54NX6FGYB3D4O3WXBMXTAZ3279235F44560DB4514D95AC59320A59.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/9/JQ/54NX6FGYB3D4O3WXBMXTAZ.uasset'
+[2025.05.27-13.52.39:895][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/7/M9/7338BOOAZK51GEJGHRWFZF
+[2025.05.27-13.52.39:895][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/7338BOOAZK51GEJGHRWFZF26F8F6004C7EECCCC77478BEA6A720CF.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/7/M9/7338BOOAZK51GEJGHRWFZF.uasset'
+[2025.05.27-13.52.39:902][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/B/T2/0Q6BGI5KS0G5XW582IUAUW
+[2025.05.27-13.52.39:902][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/0Q6BGI5KS0G5XW582IUAUW20CD9E844594B77394CC79B293D3B852.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/B/T2/0Q6BGI5KS0G5XW582IUAUW.uasset'
+[2025.05.27-13.52.39:905][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/MainGame/E/FH/Z3GKMW45CEJMXNWZFMLGKA
+[2025.05.27-13.52.39:905][187]LogSavePackage: Moving '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Saved/Z3GKMW45CEJMXNWZFMLGKAFC480AAB41C217596337418564CED290.tmp' to '../../../../../../Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/__ExternalActors__/Map/MainGame/E/FH/Z3GKMW45CEJMXNWZFMLGKA.uasset'
+[2025.05.27-13.52.39:921][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.864 ms (total: 35.5 sec)
+[2025.05.27-13.52.39:988][187]LogStall: Shutdown...
+[2025.05.27-13.52.39:988][187]LogStall: Shutdown complete.
+[2025.05.27-13.52.40:048][187]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.40:048][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.40:124][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.27-13.52.40:124][187]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.40:124][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.40:209][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.27-13.52.40:209][187]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.40:209][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.40:352][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.27-13.52.40:352][187]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.40:352][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.40:485][187]LogSlate: Window 'CTINL1 - Unreal Editor' being destroyed
+[2025.05.27-13.52.41:358][187]LogContentValidation: Display: Starting to validate 10 assets
+[2025.05.27-13.52.41:358][187]LogContentValidation: Enabled validators:
+[2025.05.27-13.52.41:358][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.27-13.52.41:358][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.27-13.52.41:358][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.27-13.52.41:358][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.27-13.52.41:358][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.27-13.52.41:358][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.27-13.52.41:358][187]AssetCheck: /Game/Map/MainGame Validating asset
+[2025.05.27-13.52.41:397][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.27-13.52.41:438][187]Cmd: QUIT_EDITOR
+[2025.05.27-13.52.41:438][187]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.27-13.52.41:452][188]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.27-13.52.41:453][188]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.27-13.52.41:453][188]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.27-13.52.41:568][188]LogWorld: UWorld::CleanupWorld for MainGame, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:569][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:569][188]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Map/MainGame.MainGame
+[2025.05.27-13.52.41:573][188]LogWorld: UWorld::CleanupWorld for AILVL, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:573][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:573][188]LogWorld: UWorld::CleanupWorld for JuliaLvl, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:573][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:573][188]LogWorld: UWorld::CleanupWorld for KristLVL, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:573][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:599][188]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.27-13.52.41:608][188]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.27-13.52.41:628][188]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:628][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:632][188]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:632][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:635][188]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:635][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:639][188]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:639][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:643][188]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:643][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:646][188]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:646][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:648][188]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:650][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:652][188]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.27-13.52.41:652][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.27-13.52.41:666][188]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.27-13.52.41:673][188]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.27-13.52.41:673][188]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.27-13.52.41:673][188]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.27-13.52.41:941][188]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.27-13.52.41:941][188]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.27-13.52.41:941][188]LogAudio: Display: Audio Device unregistered from world 'MainGame'.
+[2025.05.27-13.52.41:941][188]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.27-13.52.41:942][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.27-13.52.41:944][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.27-13.52.41:969][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.27-13.52.41:969][188]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.27-13.52.41:970][188]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.27-13.52.41:976][188]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.27-13.52.41:978][188]LogExit: Preparing to exit.
+[2025.05.27-13.52.42:033][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.27-13.52.42:038][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:039][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:049][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:050][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:052][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:052][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:052][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:052][188]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.42:052][188]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.27-13.52.43:553][188]LogEditorDataStorage: Deinitializing
+[2025.05.27-13.52.43:741][188]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/elinf/OneDrive/Skrivbord/SKOLA/C++/ComputerTechINL1/CTINL1/Content/]. Aborting watch request...
+[2025.05.27-13.52.43:831][188]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.27-13.52.43:971][188]LogExit: Editor shut down
+[2025.05.27-13.52.43:982][188]LogExit: Transaction tracking system shut down
+[2025.05.27-13.52.44:857][188]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 21.
+[2025.05.27-13.52.44:916][188]LogExit: Object subsystem successfully closed.
+[2025.05.27-13.52.45:014][188]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.27-13.52.46:271][188]LogMemoryProfiler: Shutdown
+[2025.05.27-13.52.46:272][188]LogNetworkingProfiler: Shutdown
+[2025.05.27-13.52.46:272][188]LoadingProfiler: Shutdown
+[2025.05.27-13.52.46:272][188]LogTimingProfiler: Shutdown
+[2025.05.27-13.52.47:260][188]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.27-13.52.47:263][188]RenderDocPlugin: plugin has been unloaded.
+[2025.05.27-13.52.47:309][188]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.27-13.52.47:309][188]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9CC17077-4A3B-6565-D4AD-F192C56F1757%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=6e2b6d94418f5fc003e0ac8baba81804%7Cdb101f3860e24d2d9466f0d55028a176%7C1a92932b-ba81-49ec-86f6-282338124e60&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.27-13.52.47:907][188]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.27-13.52.47:915][188]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.27-13.52.47:915][188]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.27-13.52.47:922][188]LogXGEController: Cleaning working directory: C:/Users/elinf/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.27-13.52.47:937][188]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.27-13.52.47:937][188]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.27-13.52.47:939][188]LogPakFile: Destroying PakPlatformFile
+[2025.05.27-13.52.48:808][188]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.27-13.52.48:884][188]LogExit: Exiting.
+[2025.05.27-13.52.48:929][188]Log file closed, 05/27/25 15:52:48
