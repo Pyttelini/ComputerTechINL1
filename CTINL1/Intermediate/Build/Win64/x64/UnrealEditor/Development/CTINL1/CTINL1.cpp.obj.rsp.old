@@ -1,12 +1,12 @@
-"C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Source\CTINL1\CTINL1.cpp"
-/FI"C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\CTINL1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\Definitions.CTINL1.h"
-/Yu"C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\CTINL1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\CTINL1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.cpp.obj"
-/experimental:log "C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.cpp.sarif"
-/sourceDependencies "C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.cpp.dep.json"
-@"C:\Users\elinf\OneDrive\Skrivbord\SKOLA\C++\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.Shared.rsp"
+"C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Source\CTINL1\CTINL1.cpp"
+/FI"C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\CTINL1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\Definitions.CTINL1.h"
+/Yu"C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\CTINL1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\CTINL1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.cpp.obj"
+/experimental:log "C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.cpp.sarif"
+/sourceDependencies "C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.cpp.dep.json"
+@"C:\Users\filip\Documents\GitHub\ComputerTechINL1\CTINL1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CTINL1\CTINL1.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
