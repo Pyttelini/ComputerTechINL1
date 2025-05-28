@@ -19367,3 +19367,807 @@ Sampler Limit: 32
 [2025.05.28-12.07.42:212][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.28-12.07.42:212][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.28-12.07.42:212][129]AssetCheck: /Game/Blueprints/BP_MainPlayer Validating asset
+[2025.05.28-12.13.07:038][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33549.492188
+[2025.05.28-12.13.07:189][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-12.13.07:189][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33549.625000, Update Interval: 306.910614
+[2025.05.28-12.40.59:704][754]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 1e8...09a
+[2025.05.28-12.40.59:704][754]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -303.4 RefreshExpires: 1.554e+07
+[2025.05.28-12.40.59:809][755]LogHttp: Warning: 000006C43DBF5B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-12.40.59:810][755]LogHttp: Warning: 000006C43DBF5B00: libcurl info message cache 0 (Too old connection (1452 seconds idle), disconnect it)
+[2025.05.28-12.40.59:810][755]LogHttp: Warning: 000006C43DBF5B00: libcurl info message cache 1 (Connection 10 seems to be dead)
+[2025.05.28-12.40.59:810][755]LogHttp: Warning: 000006C43DBF5B00: libcurl info message cache 2 (Closing connection)
+[2025.05.28-12.40.59:810][755]LogHttp: Warning: 000006C43DBF5B00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.28-12.40.59:810][755]LogHttp: Warning: 000006C43DBF5B00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.28-12.40.59:810][755]LogHttp: Warning: 000006C43DBF5B00: libcurl info message cache 5 (Closing connection)
+[2025.05.28-12.41.00:667][756]LogEOSSDK: Warning: LogHttp: 000006C439D13600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.28-12.41.00:669][756]LogEOSSDK: Warning: LogHttp: 000006C439D13600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-12.41.00:669][756]LogEOSSDK: Warning: LogHttp: 000006C439D13600: libcurl info message cache 0 (Found bundle for host: 0x6c24c080690 [serially])
+[2025.05.28-12.41.00:669][756]LogEOSSDK: Warning: LogHttp: 000006C439D13600: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.28-12.41.00:669][756]LogEOSSDK: Warning: LogHttp: 000006C439D13600: libcurl info message cache 2 (Closing connection)
+[2025.05.28-12.41.00:669][756]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B98EFFB1F-4205-9579-737A-4EB8AB0A0D28%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: libcurl info message cache 0 (Too old connection (1450 seconds idle), disconnect it)
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: libcurl info message cache 1 (Connection 32 seems to be dead)
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: libcurl info message cache 2 (Closing connection)
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1DE00: libcurl info message cache 5 (Closing connection)
+[2025.05.28-12.41.00:676][757]LogEOSSDK: Warning: LogHttp: 000006C439D1AE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.28-12.41.00:689][757]LogEOSSDK: Warning: LogHttp: 000006C439D1AE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-12.41.00:689][757]LogEOSSDK: Warning: LogHttp: 000006C439D1AE00: libcurl info message cache 0 (Found bundle for host: 0x6c24c080690 [serially])
+[2025.05.28-12.41.00:690][757]LogEOSSDK: Warning: LogHttp: 000006C439D1AE00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.28-12.41.00:690][757]LogEOSSDK: Warning: LogHttp: 000006C439D1AE00: libcurl info message cache 2 (Closing connection)
+[2025.05.28-12.41.00:690][757]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B98EFFB1F-4205-9579-737A-4EB8AB0A0D28%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.28-12.41.00:690][757]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.05.28-12.41.00:690][757]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597
+[2025.05.28-12.41.02:007][760]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.05.28-12.41.02:007][760]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597
+[2025.05.28-12.41.02:326][761]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.05.28-12.41.02:327][761]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597
+[2025.05.28-12.41.02:660][762]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 1e8...09a Access[Expires: 2025.05.28-14.41.04 Remaining: 7200.45] Refresh[Expires: 2025-11-24T08:37:37.147Z Remaining: 15537393.15] State: Valid
+[2025.05.28-12.41.36:069][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35251.699219
+[2025.05.28-12.41.36:263][223]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-12.41.36:263][223]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35251.875000, Update Interval: 316.582550
+[2025.05.28-12.41.56:498][355]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.28-12.41.56:515][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.28-12.41.56:519][355]LogPlayLevel: Creating play world package: /Game/GRA/Ai/UEDPIE_0_baragubben
+[2025.05.28-12.41.56:527][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007811s)
+[2025.05.28-12.41.56:527][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GRA/Ai/baragubben.baragubben to /Game/GRA/Ai/UEDPIE_0_baragubben.baragubben (0.007988s)
+[2025.05.28-12.41.56:575][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2025.05.28-12.41.56:584][355]LogChaosDD: Creating Chaos Debug Draw Scene for world baragubben
+[2025.05.28-12.41.56:600][355]LogPlayLevel: PIE: World Init took: (0.015512s)
+[2025.05.28-12.41.56:601][355]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2025.05.28-12.41.56:601][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.28-12.41.56:602][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.28-12.41.56:602][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.28-12.41.56:602][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.28-12.41.56:602][355]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.28-12.41.56:602][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.28-12.41.56:602][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.28-12.41.56:602][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.28-12.41.56:602][355]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.28-12.41.56:602][355]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.28-12.41.56:602][355]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.28-12.41.56:606][355]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.28-12.41.56:647][355]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.05.28-12.41.56:650][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.28-12.41.56:650][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.28-12.41.56:650][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.28-12.41.56:652][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2025.05.28-12.41.56:652][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2025.05.28-12.41.56:656][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2025.05.28-12.41.56:656][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2025.05.28-12.41.56:656][355]LogInit: FAudioDevice initialized with ID 94.
+[2025.05.28-12.41.56:656][355]LogAudio: Display: Audio Device (ID: 94) registered with world 'baragubben'.
+[2025.05.28-12.41.56:656][355]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2025.05.28-12.41.56:672][355]LogLoad: Game class is 'GameModeBase'
+[2025.05.28-12.41.56:674][355]LogWorld: Bringing World /Game/GRA/Ai/UEDPIE_0_baragubben.baragubben up for play (max tick rate 60) at 2025.05.28-14.41.56
+[2025.05.28-12.41.56:677][355]LogWorld: Bringing up level for play took: 0.004295
+[2025.05.28-12.41.56:681][355]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2025.05.28-12.41.56:687][355]LogBlueprintUserMessages: [BP_MainPlayer_C_1] Begin!!! MAINPLAYER
+[2025.05.28-12.41.56:688][355]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1
+[2025.05.28-12.41.56:688][355]LogBlueprintUserMessages: [BP_MainPlayer_C_1] KÖR
+[2025.05.28-12.41.56:688][355]LogBlueprintUserMessages: [BP_MainPlayer_C_1] MID_M_Snow_582
+[2025.05.28-12.41.56:688][355]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2025.05.28-12.41.56:691][355]PIE: Server logged in
+[2025.05.28-12.41.56:693][355]PIE: Play in editor total start time 0,178 seconds.
+[2025.05.28-12.41.56:779][356]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.45948
+[2025.05.28-12.41.56:796][357]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.423376
+[2025.05.28-12.41.56:876][358]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.270781
+[2025.05.28-12.41.56:904][359]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.217505
+[2025.05.28-12.41.56:922][360]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.185837
+[2025.05.28-12.41.56:938][361]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.154169
+[2025.05.28-12.41.56:955][362]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.122503
+[2025.05.28-12.41.56:971][363]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.090836
+[2025.05.28-12.41.56:988][364]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.059168
+[2025.05.28-12.41.57:005][365]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 19.0275
+[2025.05.28-12.41.57:021][366]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.995832
+[2025.05.28-12.41.57:038][367]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.964167
+[2025.05.28-12.41.57:054][368]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.932499
+[2025.05.28-12.41.57:071][369]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.900831
+[2025.05.28-12.41.57:088][370]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.869165
+[2025.05.28-12.41.57:105][371]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.837498
+[2025.05.28-12.41.57:121][372]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.805822
+[2025.05.28-12.41.57:137][373]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.774155
+[2025.05.28-12.41.57:154][374]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.742487
+[2025.05.28-12.41.57:171][375]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.710821
+[2025.05.28-12.41.57:188][376]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.679153
+[2025.05.28-12.41.57:204][377]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.647486
+[2025.05.28-12.41.57:220][378]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.61582
+[2025.05.28-12.41.57:238][379]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.584152
+[2025.05.28-12.41.57:255][380]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.552485
+[2025.05.28-12.41.57:271][381]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.520819
+[2025.05.28-12.41.57:288][382]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.489151
+[2025.05.28-12.41.57:305][383]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.457483
+[2025.05.28-12.41.57:321][384]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.425816
+[2025.05.28-12.41.57:337][385]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.39415
+[2025.05.28-12.41.57:354][386]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.362482
+[2025.05.28-12.41.57:373][387]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.330814
+[2025.05.28-12.41.57:387][388]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.299149
+[2025.05.28-12.41.57:404][389]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.267481
+[2025.05.28-12.41.57:420][390]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.235813
+[2025.05.28-12.41.57:438][391]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.204147
+[2025.05.28-12.41.57:454][392]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.17248
+[2025.05.28-12.41.57:470][393]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.140812
+[2025.05.28-12.41.57:488][394]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.109146
+[2025.05.28-12.41.57:503][395]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.077478
+[2025.05.28-12.41.57:521][396]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.045813
+[2025.05.28-12.41.57:538][397]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 18.014145
+[2025.05.28-12.41.57:554][398]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.982477
+[2025.05.28-12.41.57:572][399]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.950809
+[2025.05.28-12.41.57:588][400]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.919144
+[2025.05.28-12.41.57:623][401]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.852568
+[2025.05.28-12.41.57:640][402]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.8209
+[2025.05.28-12.41.57:656][403]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.789232
+[2025.05.28-12.41.57:673][404]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.757565
+[2025.05.28-12.41.57:689][405]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.725899
+[2025.05.28-12.41.57:706][406]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.694231
+[2025.05.28-12.41.57:722][407]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.662563
+[2025.05.28-12.41.57:738][408]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.630898
+[2025.05.28-12.41.57:755][409]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.59923
+[2025.05.28-12.41.57:772][410]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.567562
+[2025.05.28-12.41.57:789][411]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.535896
+[2025.05.28-12.41.57:806][412]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.504229
+[2025.05.28-12.41.57:821][413]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.472561
+[2025.05.28-12.41.57:839][414]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.440895
+[2025.05.28-12.41.57:855][415]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.409227
+[2025.05.28-12.41.57:872][416]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.37756
+[2025.05.28-12.41.57:889][417]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.34589
+[2025.05.28-12.41.57:906][418]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.31422
+[2025.05.28-12.41.57:922][419]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.282555
+[2025.05.28-12.41.57:939][420]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.250887
+[2025.05.28-12.41.57:956][421]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.219219
+[2025.05.28-12.41.57:973][422]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.187553
+[2025.05.28-12.41.57:990][423]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.155886
+[2025.05.28-12.41.58:005][424]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.124218
+[2025.05.28-12.41.58:022][425]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.092552
+[2025.05.28-12.41.58:039][426]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.060886
+[2025.05.28-12.41.58:056][427]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 17.029219
+[2025.05.28-12.41.58:072][428]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.997551
+[2025.05.28-12.41.58:090][429]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.965883
+[2025.05.28-12.41.58:106][430]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.934217
+[2025.05.28-12.41.58:122][431]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.90255
+[2025.05.28-12.41.58:140][432]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.870884
+[2025.05.28-12.41.58:156][433]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.839216
+[2025.05.28-12.41.58:172][434]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.807549
+[2025.05.28-12.41.58:189][435]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.775881
+[2025.05.28-12.41.58:206][436]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.744213
+[2025.05.28-12.41.58:223][437]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.712547
+[2025.05.28-12.41.58:239][438]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.68088
+[2025.05.28-12.41.58:256][439]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.649212
+[2025.05.28-12.41.58:272][440]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.617544
+[2025.05.28-12.41.58:288][441]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.585876
+[2025.05.28-12.41.58:306][442]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.554209
+[2025.05.28-12.41.58:324][443]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.522541
+[2025.05.28-12.41.58:339][444]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.490875
+[2025.05.28-12.41.58:357][445]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.459208
+[2025.05.28-12.41.58:372][446]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.42754
+[2025.05.28-12.41.58:389][447]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.395874
+[2025.05.28-12.41.58:405][448]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.364206
+[2025.05.28-12.41.58:422][449]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.332539
+[2025.05.28-12.41.58:439][450]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.300871
+[2025.05.28-12.41.58:455][451]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.269203
+[2025.05.28-12.41.58:473][452]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.237537
+[2025.05.28-12.41.58:489][453]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.20587
+[2025.05.28-12.41.58:505][454]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.174202
+[2025.05.28-12.41.58:522][455]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.142534
+[2025.05.28-12.41.58:539][456]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.110868
+[2025.05.28-12.41.58:556][457]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.079201
+[2025.05.28-12.41.58:572][458]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.047533
+[2025.05.28-12.41.58:589][459]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 16.015865
+[2025.05.28-12.41.58:605][460]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.984199
+[2025.05.28-12.41.58:622][461]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.952532
+[2025.05.28-12.41.58:639][462]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.920864
+[2025.05.28-12.41.58:656][463]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.889198
+[2025.05.28-12.41.58:672][464]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.857531
+[2025.05.28-12.41.58:689][465]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.825864
+[2025.05.28-12.41.58:706][466]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.794196
+[2025.05.28-12.41.58:722][467]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.762529
+[2025.05.28-12.41.58:739][468]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.730863
+[2025.05.28-12.41.58:756][469]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.699196
+[2025.05.28-12.41.58:772][470]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.667528
+[2025.05.28-12.41.58:789][471]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.63586
+[2025.05.28-12.41.58:806][472]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.603092
+[2025.05.28-12.41.58:823][473]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.571425
+[2025.05.28-12.41.58:839][474]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.539758
+[2025.05.28-12.41.58:856][475]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.50809
+[2025.05.28-12.41.58:872][476]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.476422
+[2025.05.28-12.41.58:890][477]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.444756
+[2025.05.28-12.41.58:907][478]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.412989
+[2025.05.28-12.41.58:923][479]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.381321
+[2025.05.28-12.41.58:939][480]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.349653
+[2025.05.28-12.41.58:956][481]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.317986
+[2025.05.28-12.41.58:973][482]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.286318
+[2025.05.28-12.41.58:990][483]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.254652
+[2025.05.28-12.41.59:007][484]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.222984
+[2025.05.28-12.41.59:023][485]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.191317
+[2025.05.28-12.41.59:039][486]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.15965
+[2025.05.28-12.41.59:056][487]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.127982
+[2025.05.28-12.41.59:073][488]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.096315
+[2025.05.28-12.41.59:090][489]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.064649
+[2025.05.28-12.41.59:106][490]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.032982
+[2025.05.28-12.41.59:123][491]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 15.001314
+[2025.05.28-12.41.59:139][492]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.969646
+[2025.05.28-12.41.59:156][493]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.937981
+[2025.05.28-12.41.59:173][494]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.906141
+[2025.05.28-12.41.59:189][495]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.874475
+[2025.05.28-12.41.59:207][496]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.842807
+[2025.05.28-12.41.59:223][497]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.81114
+[2025.05.28-12.41.59:239][498]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.779472
+[2025.05.28-12.41.59:256][499]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.747807
+[2025.05.28-12.41.59:272][500]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.716139
+[2025.05.28-12.41.59:289][501]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.684471
+[2025.05.28-12.41.59:306][502]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.652803
+[2025.05.28-12.41.59:323][503]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.621136
+[2025.05.28-12.41.59:339][504]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.589468
+[2025.05.28-12.41.59:356][505]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.557802
+[2025.05.28-12.41.59:373][506]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.526134
+[2025.05.28-12.41.59:390][507]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.494467
+[2025.05.28-12.41.59:406][508]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.462799
+[2025.05.28-12.41.59:423][509]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.431133
+[2025.05.28-12.41.59:439][510]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.399466
+[2025.05.28-12.41.59:456][511]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.367798
+[2025.05.28-12.41.59:473][512]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.33613
+[2025.05.28-12.41.59:489][513]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.304463
+[2025.05.28-12.41.59:506][514]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.272796
+[2025.05.28-12.41.59:523][515]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.241129
+[2025.05.28-12.41.59:539][516]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.209461
+[2025.05.28-12.41.59:556][517]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.177794
+[2025.05.28-12.41.59:573][518]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.146111
+[2025.05.28-12.41.59:589][519]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.114444
+[2025.05.28-12.41.59:606][520]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.082777
+[2025.05.28-12.41.59:623][521]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.051109
+[2025.05.28-12.41.59:639][522]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 14.019443
+[2025.05.28-12.41.59:656][523]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.987776
+[2025.05.28-12.41.59:673][524]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.956109
+[2025.05.28-12.41.59:690][525]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.924442
+[2025.05.28-12.41.59:707][526]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.892775
+[2025.05.28-12.41.59:722][527]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.861107
+[2025.05.28-12.41.59:739][528]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.82944
+[2025.05.28-12.41.59:756][529]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.797773
+[2025.05.28-12.41.59:773][530]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.766106
+[2025.05.28-12.41.59:790][531]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.734438
+[2025.05.28-12.41.59:806][532]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.702771
+[2025.05.28-12.41.59:823][533]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.671104
+[2025.05.28-12.41.59:839][534]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.639437
+[2025.05.28-12.41.59:857][535]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.607769
+[2025.05.28-12.41.59:873][536]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.576101
+[2025.05.28-12.41.59:889][537]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.544434
+[2025.05.28-12.41.59:906][538]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.512766
+[2025.05.28-12.41.59:922][539]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.481099
+[2025.05.28-12.41.59:940][540]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.449431
+[2025.05.28-12.41.59:956][541]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.417765
+[2025.05.28-12.41.59:973][542]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.386097
+[2025.05.28-12.41.59:989][543]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.354431
+[2025.05.28-12.42.00:008][544]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.322571
+[2025.05.28-12.42.00:023][545]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.290892
+[2025.05.28-12.42.00:040][546]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.259224
+[2025.05.28-12.42.00:056][547]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.227556
+[2025.05.28-12.42.00:074][548]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.195856
+[2025.05.28-12.42.00:090][549]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.164187
+[2025.05.28-12.42.00:106][550]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.132521
+[2025.05.28-12.42.00:123][551]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.100854
+[2025.05.28-12.42.00:140][552]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.069187
+[2025.05.28-12.42.00:156][553]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.037519
+[2025.05.28-12.42.00:173][554]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 13.005853
+[2025.05.28-12.42.00:190][555]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.974185
+[2025.05.28-12.42.00:207][556]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.942518
+[2025.05.28-12.42.00:223][557]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.910851
+[2025.05.28-12.42.00:240][558]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.879184
+[2025.05.28-12.42.00:256][559]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.847517
+[2025.05.28-12.42.00:273][560]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.815849
+[2025.05.28-12.42.00:290][561]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.784183
+[2025.05.28-12.42.00:306][562]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.752516
+[2025.05.28-12.42.00:323][563]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.720848
+[2025.05.28-12.42.00:339][564]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.68918
+[2025.05.28-12.42.00:356][565]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.657514
+[2025.05.28-12.42.00:373][566]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.625847
+[2025.05.28-12.42.00:390][567]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.594179
+[2025.05.28-12.42.00:407][568]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.562511
+[2025.05.28-12.42.00:423][569]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.530844
+[2025.05.28-12.42.00:439][570]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.499176
+[2025.05.28-12.42.00:456][571]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.467509
+[2025.05.28-12.42.00:473][572]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.435843
+[2025.05.28-12.42.00:490][573]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.404175
+[2025.05.28-12.42.00:506][574]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.372507
+[2025.05.28-12.42.00:523][575]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.34084
+[2025.05.28-12.42.00:540][576]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.309174
+[2025.05.28-12.42.00:556][577]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.277506
+[2025.05.28-12.42.00:574][578]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.245839
+[2025.05.28-12.42.00:590][579]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.214171
+[2025.05.28-12.42.00:606][580]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.182505
+[2025.05.28-12.42.00:623][581]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.150837
+[2025.05.28-12.42.00:640][582]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.119009
+[2025.05.28-12.42.00:657][583]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.087341
+[2025.05.28-12.42.00:674][584]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.055675
+[2025.05.28-12.42.00:690][585]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 12.024008
+[2025.05.28-12.42.00:707][586]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.992332
+[2025.05.28-12.42.00:724][587]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.960664
+[2025.05.28-12.42.00:741][588]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.928996
+[2025.05.28-12.42.00:757][589]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.897328
+[2025.05.28-12.42.00:772][590]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.865662
+[2025.05.28-12.42.00:790][591]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.833994
+[2025.05.28-12.42.00:807][592]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.802327
+[2025.05.28-12.42.00:823][593]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.770659
+[2025.05.28-12.42.00:840][594]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.738992
+[2025.05.28-12.42.00:857][595]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.707324
+[2025.05.28-12.42.00:873][596]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.675657
+[2025.05.28-12.42.00:889][597]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.64399
+[2025.05.28-12.42.00:907][598]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.612323
+[2025.05.28-12.42.00:923][599]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.580655
+[2025.05.28-12.42.00:941][600]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.548988
+[2025.05.28-12.42.00:957][601]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.517322
+[2025.05.28-12.42.00:973][602]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.485587
+[2025.05.28-12.42.00:989][603]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.45392
+[2025.05.28-12.42.01:008][604]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.422207
+[2025.05.28-12.42.01:023][605]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.390517
+[2025.05.28-12.42.01:040][606]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.35885
+[2025.05.28-12.42.01:056][607]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.327183
+[2025.05.28-12.42.01:073][608]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.295516
+[2025.05.28-12.42.01:090][609]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.263848
+[2025.05.28-12.42.01:107][610]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.232182
+[2025.05.28-12.42.01:123][611]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.200515
+[2025.05.28-12.42.01:139][612]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.168848
+[2025.05.28-12.42.01:157][613]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.137147
+[2025.05.28-12.42.01:173][614]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.10548
+[2025.05.28-12.42.01:190][615]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.073812
+[2025.05.28-12.42.01:206][616]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.042145
+[2025.05.28-12.42.01:223][617]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 11.010478
+[2025.05.28-12.42.01:240][618]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.97881
+[2025.05.28-12.42.01:256][619]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.947144
+[2025.05.28-12.42.01:274][620]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.914683
+[2025.05.28-12.42.01:290][621]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.883017
+[2025.05.28-12.42.01:307][622]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.85135
+[2025.05.28-12.42.01:323][623]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.819681
+[2025.05.28-12.42.01:340][624]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.788014
+[2025.05.28-12.42.01:357][625]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.756348
+[2025.05.28-12.42.01:374][626]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.724679
+[2025.05.28-12.42.01:390][627]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.693012
+[2025.05.28-12.42.01:407][628]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.661345
+[2025.05.28-12.42.01:423][629]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.629678
+[2025.05.28-12.42.01:441][630]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.598011
+[2025.05.28-12.42.01:457][631]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.566344
+[2025.05.28-12.42.01:474][632]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.534677
+[2025.05.28-12.42.01:491][633]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.50301
+[2025.05.28-12.42.01:508][634]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.471342
+[2025.05.28-12.42.01:524][635]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.439674
+[2025.05.28-12.42.01:540][636]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.408008
+[2025.05.28-12.42.01:557][637]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.37634
+[2025.05.28-12.42.01:573][638]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.344673
+[2025.05.28-12.42.01:590][639]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.313005
+[2025.05.28-12.42.01:607][640]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.28134
+[2025.05.28-12.42.01:624][641]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.249673
+[2025.05.28-12.42.01:640][642]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.218005
+[2025.05.28-12.42.01:657][643]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.186338
+[2025.05.28-12.42.01:673][644]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.154671
+[2025.05.28-12.42.01:691][645]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.123004
+[2025.05.28-12.42.01:707][646]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.091337
+[2025.05.28-12.42.01:724][647]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.059669
+[2025.05.28-12.42.01:740][648]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 10.028003
+[2025.05.28-12.42.01:757][649]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.996335
+[2025.05.28-12.42.01:774][650]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.964668
+[2025.05.28-12.42.01:790][651]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.933002
+[2025.05.28-12.42.01:808][652]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.901334
+[2025.05.28-12.42.01:824][653]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.869667
+[2025.05.28-12.42.01:841][654]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.837999
+[2025.05.28-12.42.01:857][655]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.806333
+[2025.05.28-12.42.01:874][656]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.774666
+[2025.05.28-12.42.01:891][657]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.742998
+[2025.05.28-12.42.01:907][658]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.711331
+[2025.05.28-12.42.01:924][659]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.679664
+[2025.05.28-12.42.01:940][660]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.647997
+[2025.05.28-12.42.01:957][661]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.616331
+[2025.05.28-12.42.01:973][662]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.584663
+[2025.05.28-12.42.01:991][663]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.552996
+[2025.05.28-12.42.02:007][664]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.521327
+[2025.05.28-12.42.02:023][665]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.489659
+[2025.05.28-12.42.02:040][666]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.457993
+[2025.05.28-12.42.02:057][667]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.426325
+[2025.05.28-12.42.02:074][668]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.394657
+[2025.05.28-12.42.02:091][669]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.362991
+[2025.05.28-12.42.02:107][670]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.331325
+[2025.05.28-12.42.02:124][671]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.299657
+[2025.05.28-12.42.02:140][672]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.267988
+[2025.05.28-12.42.02:157][673]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.236322
+[2025.05.28-12.42.02:173][674]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.204655
+[2025.05.28-12.42.02:191][675]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.172988
+[2025.05.28-12.42.02:207][676]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.14132
+[2025.05.28-12.42.02:223][677]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.109653
+[2025.05.28-12.42.02:240][678]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.077987
+[2025.05.28-12.42.02:256][679]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.046318
+[2025.05.28-12.42.02:274][680]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 9.014651
+[2025.05.28-12.42.02:291][681]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.982985
+[2025.05.28-12.42.02:307][682]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.951317
+[2025.05.28-12.42.02:324][683]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.91965
+[2025.05.28-12.42.02:341][684]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.887982
+[2025.05.28-12.42.02:357][685]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.856316
+[2025.05.28-12.42.02:373][686]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.824649
+[2025.05.28-12.42.02:390][687]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.792981
+[2025.05.28-12.42.02:407][688]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.761314
+[2025.05.28-12.42.02:424][689]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.729647
+[2025.05.28-12.42.02:441][690]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.697979
+[2025.05.28-12.42.02:458][691]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.666312
+[2025.05.28-12.42.02:474][692]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.634645
+[2025.05.28-12.42.02:490][693]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.602978
+[2025.05.28-12.42.02:507][694]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.571311
+[2025.05.28-12.42.02:525][695]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.539643
+[2025.05.28-12.42.02:541][696]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.507976
+[2025.05.28-12.42.02:557][697]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.476309
+[2025.05.28-12.42.02:574][698]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.444641
+[2025.05.28-12.42.02:592][699]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.410797
+[2025.05.28-12.42.02:609][700]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.37909
+[2025.05.28-12.42.02:626][701]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.347397
+[2025.05.28-12.42.02:643][702]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.31573
+[2025.05.28-12.42.02:659][703]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.284031
+[2025.05.28-12.42.02:675][704]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.252305
+[2025.05.28-12.42.02:692][705]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.220638
+[2025.05.28-12.42.02:709][706]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.188329
+[2025.05.28-12.42.02:725][707]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.156662
+[2025.05.28-12.42.02:742][708]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.124993
+[2025.05.28-12.42.02:759][709]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.093327
+[2025.05.28-12.42.02:776][710]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.06166
+[2025.05.28-12.42.02:793][711]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 8.029992
+[2025.05.28-12.42.02:809][712]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.997993
+[2025.05.28-12.42.02:827][713]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.966326
+[2025.05.28-12.42.02:842][714]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.934471
+[2025.05.28-12.42.02:861][715]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.900872
+[2025.05.28-12.42.02:877][716]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.869164
+[2025.05.28-12.42.02:894][717]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.837498
+[2025.05.28-12.42.02:911][718]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.805831
+[2025.05.28-12.42.02:927][719]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.774163
+[2025.05.28-12.42.02:943][720]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.742496
+[2025.05.28-12.42.02:960][721]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.710735
+[2025.05.28-12.42.02:977][722]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.67907
+[2025.05.28-12.42.02:995][723]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.647402
+[2025.05.28-12.42.03:010][724]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.615735
+[2025.05.28-12.42.03:027][725]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.584067
+[2025.05.28-12.42.03:043][726]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.552401
+[2025.05.28-12.42.03:060][727]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.520734
+[2025.05.28-12.42.03:077][728]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.489066
+[2025.05.28-12.42.03:093][729]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.457399
+[2025.05.28-12.42.03:110][730]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.425732
+[2025.05.28-12.42.03:127][731]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.394065
+[2025.05.28-12.42.03:144][732]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.362398
+[2025.05.28-12.42.03:161][733]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.33073
+[2025.05.28-12.42.03:176][734]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.299064
+[2025.05.28-12.42.03:193][735]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.267396
+[2025.05.28-12.42.03:210][736]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.235729
+[2025.05.28-12.42.03:226][737]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.204062
+[2025.05.28-12.42.03:243][738]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.172395
+[2025.05.28-12.42.03:260][739]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.140728
+[2025.05.28-12.42.03:277][740]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.10906
+[2025.05.28-12.42.03:294][741]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.077394
+[2025.05.28-12.42.03:310][742]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.045728
+[2025.05.28-12.42.03:328][743]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 7.01406
+[2025.05.28-12.42.03:344][744]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.982391
+[2025.05.28-12.42.03:359][745]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.950726
+[2025.05.28-12.42.03:377][746]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.919058
+[2025.05.28-12.42.03:394][747]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.887391
+[2025.05.28-12.42.03:410][748]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.855723
+[2025.05.28-12.42.03:427][749]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.824056
+[2025.05.28-12.42.03:443][750]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.792389
+[2025.05.28-12.42.03:459][751]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.760721
+[2025.05.28-12.42.03:477][752]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.729053
+[2025.05.28-12.42.03:494][753]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.697387
+[2025.05.28-12.42.03:509][754]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.665719
+[2025.05.28-12.42.03:527][755]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.634052
+[2025.05.28-12.42.03:543][756]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.602386
+[2025.05.28-12.42.03:561][757]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.570718
+[2025.05.28-12.42.03:577][758]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.539051
+[2025.05.28-12.42.03:594][759]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.507373
+[2025.05.28-12.42.03:610][760]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.475705
+[2025.05.28-12.42.03:626][761]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.444038
+[2025.05.28-12.42.03:644][762]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.412372
+[2025.05.28-12.42.03:660][763]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.380704
+[2025.05.28-12.42.03:676][764]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.349037
+[2025.05.28-12.42.03:694][765]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.317369
+[2025.05.28-12.42.03:709][766]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.285704
+[2025.05.28-12.42.03:727][767]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.254035
+[2025.05.28-12.42.03:744][768]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.222306
+[2025.05.28-12.42.03:760][769]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.190639
+[2025.05.28-12.42.03:777][770]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.158972
+[2025.05.28-12.42.03:793][771]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.127305
+[2025.05.28-12.42.03:810][772]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.095637
+[2025.05.28-12.42.03:827][773]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.063971
+[2025.05.28-12.42.03:844][774]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.032305
+[2025.05.28-12.42.03:860][775]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 6.000637
+[2025.05.28-12.42.03:877][776]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.968275
+[2025.05.28-12.42.03:894][777]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.936607
+[2025.05.28-12.42.03:911][778]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.904939
+[2025.05.28-12.42.03:927][779]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.873271
+[2025.05.28-12.42.03:944][780]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.841603
+[2025.05.28-12.42.03:961][781]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.809937
+[2025.05.28-12.42.03:977][782]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.778269
+[2025.05.28-12.42.03:994][783]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.7466
+[2025.05.28-12.42.04:010][784]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.714933
+[2025.05.28-12.42.04:027][785]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.683267
+[2025.05.28-12.42.04:043][786]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.651599
+[2025.05.28-12.42.04:061][787]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.619932
+[2025.05.28-12.42.04:077][788]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.588264
+[2025.05.28-12.42.04:094][789]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.556599
+[2025.05.28-12.42.04:112][790]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.524932
+[2025.05.28-12.42.04:127][791]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.493211
+[2025.05.28-12.42.04:144][792]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.461544
+[2025.05.28-12.42.04:161][793]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.429876
+[2025.05.28-12.42.04:177][794]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.39821
+[2025.05.28-12.42.04:195][795]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.366542
+[2025.05.28-12.42.04:211][796]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.334832
+[2025.05.28-12.42.04:227][797]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.303165
+[2025.05.28-12.42.04:245][798]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.27137
+[2025.05.28-12.42.04:261][799]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.239605
+[2025.05.28-12.42.04:277][800]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.207428
+[2025.05.28-12.42.04:294][801]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.175722
+[2025.05.28-12.42.04:312][802]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.144055
+[2025.05.28-12.42.04:328][803]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.112389
+[2025.05.28-12.42.04:345][804]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.080495
+[2025.05.28-12.42.04:361][805]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.048828
+[2025.05.28-12.42.04:379][806]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 5.01716
+[2025.05.28-12.42.04:394][807]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.985494
+[2025.05.28-12.42.04:411][808]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.953827
+[2025.05.28-12.42.04:428][809]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.922159
+[2025.05.28-12.42.04:445][810]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.890492
+[2025.05.28-12.42.04:461][811]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.858825
+[2025.05.28-12.42.04:479][812]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.826117
+[2025.05.28-12.42.04:495][813]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.794448
+[2025.05.28-12.42.04:511][814]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.76278
+[2025.05.28-12.42.04:528][815]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.731039
+[2025.05.28-12.42.04:545][816]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.699373
+[2025.05.28-12.42.04:562][817]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.667706
+[2025.05.28-12.42.04:578][818]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.636037
+[2025.05.28-12.42.04:596][819]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.604294
+[2025.05.28-12.42.04:612][820]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.572625
+[2025.05.28-12.42.04:628][821]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.540957
+[2025.05.28-12.42.04:645][822]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.509291
+[2025.05.28-12.42.04:662][823]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.477625
+[2025.05.28-12.42.04:678][824]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.445957
+[2025.05.28-12.42.04:695][825]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.414289
+[2025.05.28-12.42.04:712][826]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.382621
+[2025.05.28-12.42.04:728][827]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.350955
+[2025.05.28-12.42.04:745][828]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.319286
+[2025.05.28-12.42.04:761][829]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.287621
+[2025.05.28-12.42.04:778][830]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.255953
+[2025.05.28-12.42.04:795][831]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.224287
+[2025.05.28-12.42.04:812][832]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.192618
+[2025.05.28-12.42.04:828][833]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.160951
+[2025.05.28-12.42.04:845][834]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.129282
+[2025.05.28-12.42.04:862][835]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.097614
+[2025.05.28-12.42.04:879][836]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.065948
+[2025.05.28-12.42.04:895][837]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.034281
+[2025.05.28-12.42.04:912][838]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 4.002612
+[2025.05.28-12.42.04:929][839]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.970945
+[2025.05.28-12.42.04:945][840]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.939278
+[2025.05.28-12.42.04:961][841]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.907612
+[2025.05.28-12.42.04:978][842]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.875944
+[2025.05.28-12.42.04:995][843]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.844278
+[2025.05.28-12.42.05:012][844]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.812609
+[2025.05.28-12.42.05:028][845]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.780943
+[2025.05.28-12.42.05:045][846]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.749275
+[2025.05.28-12.42.05:061][847]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.717607
+[2025.05.28-12.42.05:079][848]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.685942
+[2025.05.28-12.42.05:095][849]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.654276
+[2025.05.28-12.42.05:112][850]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.622593
+[2025.05.28-12.42.05:129][851]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.590925
+[2025.05.28-12.42.05:145][852]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.559258
+[2025.05.28-12.42.05:162][853]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.52759
+[2025.05.28-12.42.05:179][854]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.49592
+[2025.05.28-12.42.05:196][855]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.464252
+[2025.05.28-12.42.05:211][856]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.432587
+[2025.05.28-12.42.05:229][857]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.400921
+[2025.05.28-12.42.05:245][858]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.369253
+[2025.05.28-12.42.05:262][859]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.337585
+[2025.05.28-12.42.05:279][860]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.30592
+[2025.05.28-12.42.05:295][861]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.274252
+[2025.05.28-12.42.05:311][862]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.242584
+[2025.05.28-12.42.05:329][863]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.210854
+[2025.05.28-12.42.05:346][864]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.179184
+[2025.05.28-12.42.05:361][865]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.147516
+[2025.05.28-12.42.05:379][866]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.115849
+[2025.05.28-12.42.05:395][867]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.084181
+[2025.05.28-12.42.05:412][868]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.052513
+[2025.05.28-12.42.05:429][869]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 3.020845
+[2025.05.28-12.42.05:445][870]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.989178
+[2025.05.28-12.42.05:462][871]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.957508
+[2025.05.28-12.42.05:478][872]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.925842
+[2025.05.28-12.42.05:495][873]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.894176
+[2025.05.28-12.42.05:512][874]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.862509
+[2025.05.28-12.42.05:528][875]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.830841
+[2025.05.28-12.42.05:545][876]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.799173
+[2025.05.28-12.42.05:562][877]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.767506
+[2025.05.28-12.42.05:578][878]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.73584
+[2025.05.28-12.42.05:596][879]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.704172
+[2025.05.28-12.42.05:612][880]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.672504
+[2025.05.28-12.42.05:628][881]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.640837
+[2025.05.28-12.42.05:645][882]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.609169
+[2025.05.28-12.42.05:662][883]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.577501
+[2025.05.28-12.42.05:679][884]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.545835
+[2025.05.28-12.42.05:695][885]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.514168
+[2025.05.28-12.42.05:712][886]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.4825
+[2025.05.28-12.42.05:729][887]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.450832
+[2025.05.28-12.42.05:745][888]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.419165
+[2025.05.28-12.42.05:762][889]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.387497
+[2025.05.28-12.42.05:778][890]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.355829
+[2025.05.28-12.42.05:795][891]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.324162
+[2025.05.28-12.42.05:812][892]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.292494
+[2025.05.28-12.42.05:828][893]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.260828
+[2025.05.28-12.42.05:845][894]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.22916
+[2025.05.28-12.42.05:862][895]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.197495
+[2025.05.28-12.42.05:878][896]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.165827
+[2025.05.28-12.42.05:896][897]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.134159
+[2025.05.28-12.42.05:912][898]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.102491
+[2025.05.28-12.42.05:929][899]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.070824
+[2025.05.28-12.42.05:945][900]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.039156
+[2025.05.28-12.42.05:962][901]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 2.007452
+[2025.05.28-12.42.05:979][902]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.975784
+[2025.05.28-12.42.05:995][903]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.94381
+[2025.05.28-12.42.06:011][904]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.912142
+[2025.05.28-12.42.06:029][905]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.880476
+[2025.05.28-12.42.06:046][906]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.848478
+[2025.05.28-12.42.06:062][907]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.816811
+[2025.05.28-12.42.06:079][908]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.785143
+[2025.05.28-12.42.06:095][909]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.753473
+[2025.05.28-12.42.06:112][910]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.721807
+[2025.05.28-12.42.06:129][911]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.69014
+[2025.05.28-12.42.06:146][912]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.658472
+[2025.05.28-12.42.06:162][913]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.626804
+[2025.05.28-12.42.06:179][914]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.595137
+[2025.05.28-12.42.06:196][915]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.563469
+[2025.05.28-12.42.06:212][916]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.531389
+[2025.05.28-12.42.06:228][917]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.499722
+[2025.05.28-12.42.06:246][918]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.468052
+[2025.05.28-12.42.06:262][919]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.436384
+[2025.05.28-12.42.06:278][920]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.404716
+[2025.05.28-12.42.06:296][921]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.373051
+[2025.05.28-12.42.06:312][922]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.341385
+[2025.05.28-12.42.06:329][923]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.309719
+[2025.05.28-12.42.06:346][924]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.278051
+[2025.05.28-12.42.06:363][925]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.246382
+[2025.05.28-12.42.06:379][926]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.214714
+[2025.05.28-12.42.06:396][927]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.183046
+[2025.05.28-12.42.06:413][928]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.151379
+[2025.05.28-12.42.06:429][929]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.119711
+[2025.05.28-12.42.06:446][930]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.088041
+[2025.05.28-12.42.06:463][931]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.056374
+[2025.05.28-12.42.06:479][932]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.024706
+[2025.05.28-12.42.06:496][933]LogBlueprintUserMessages: [BP_MainPlayer_C_1] 1.0
+[2025.05.28-12.42.11:762][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-12.42.11:762][247]LogWorld: BeginTearingDown for /Game/GRA/Ai/UEDPIE_0_baragubben
+[2025.05.28-12.42.11:767][247]LogWorld: UWorld::CleanupWorld for baragubben, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-12.42.11:768][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-12.42.11:965][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.28-12.42.11:976][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-12.42.12:011][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-12.42.12:011][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2025.05.28-12.42.12:011][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2025.05.28-12.42.12:015][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2025.05.28-12.42.12:030][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2025.05.28-12.42.12:145][248]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2025.05.28-12.42.26:028][986]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.28-12.47.22:883][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35591.183594
+[2025.05.28-12.47.23:036][166]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-12.47.23:037][166]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35591.316406, Update Interval: 356.489746
+[2025.05.28-12.54.00:718][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35980.347656
+[2025.05.28-12.54.00:857][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-12.54.00:857][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35980.468750, Update Interval: 340.167236
+[2025.05.28-13.00.20:162][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36355.343750
+[2025.05.28-13.00.21:163][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-13.00.21:163][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36356.011719, Update Interval: 322.313904
+[2025.05.28-13.06.41:544][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36735.640625
+[2025.05.28-13.06.42:543][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-13.06.42:543][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36736.304688, Update Interval: 318.214050
+[2025.05.28-13.12.47:922][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37101.007812
+[2025.05.28-13.12.48:921][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.28-13.12.48:921][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37101.671875, Update Interval: 327.671753
+[2025.05.28-13.32.37:498][826]LogHttp: Warning: 000006C457EC9300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-13.32.37:498][826]LogHttp: Warning: 000006C457EC9300: libcurl info message cache 0 (Too old connection (1189 seconds idle), disconnect it)
+[2025.05.28-13.32.37:498][826]LogHttp: Warning: 000006C457EC9300: libcurl info message cache 1 (Connection 12 seems to be dead)
+[2025.05.28-13.32.37:498][826]LogHttp: Warning: 000006C457EC9300: libcurl info message cache 2 (Closing connection)
+[2025.05.28-13.32.37:498][826]LogHttp: Warning: 000006C457EC9300: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.28-13.32.37:498][826]LogHttp: Warning: 000006C457EC9300: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.28-13.32.37:498][826]LogHttp: Warning: 000006C457EC9300: libcurl info message cache 5 (Closing connection)
+[2025.05.28-13.32.37:498][826]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B98EFFB1F-4205-9579-737A-4EB8AB0A0D28%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: libcurl info message cache 0 (Too old connection (1176 seconds idle), disconnect it)
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: libcurl info message cache 1 (Connection 37 seems to be dead)
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: libcurl info message cache 2 (Closing connection)
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: 000006C45D315A00: libcurl info message cache 5 (Closing connection)
+[2025.05.28-13.32.37:500][827]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B98EFFB1F-4205-9579-737A-4EB8AB0A0D28%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.28-13.32.37:858][828]LogEOSSDK: Warning: LogHttp: 000006C45D312400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.28-13.32.37:858][828]LogEOSSDK: Warning: LogHttp: 000006C45D312400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-13.32.37:858][828]LogEOSSDK: Warning: LogHttp: 000006C45D312400: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.28-13.32.37:858][828]LogEOSSDK: Warning: LogHttp: 000006C45D312400: libcurl info message cache 1 (Closing connection)
+[2025.05.28-13.32.37:858][828]LogEOSSDK: Warning: LogHttp: 000006C45D318A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.28-13.32.37:858][828]LogEOSSDK: Warning: LogHttp: 000006C45D318A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.28-13.32.37:858][828]LogEOSSDK: Warning: LogHttp: 000006C45D318A00: libcurl info message cache 0 (Found bundle for host: 0x6c24c081260 [serially])
+[2025.05.28-13.32.37:858][829]LogEOSSDK: Warning: LogHttp: 000006C45D318A00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.28-13.32.37:858][829]LogEOSSDK: Warning: LogHttp: 000006C45D318A00: libcurl info message cache 2 (Closing connection)
+[2025.05.28-13.32.37:858][829]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.28-13.32.37:858][829]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597
+[2025.05.28-13.32.38:187][829]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 1e8...09a
+[2025.05.28-13.32.39:179][833]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.28-13.32.39:179][833]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597
+[2025.05.28-13.32.39:844][834]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.28-13.32.39:844][834]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C9E3F199451B029B9EAEE7AD81B88597
+[2025.05.28-13.33.01:929][497]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2025.05.28-13.33.02:099][497]LogStall: Shutdown...
+[2025.05.28-13.33.02:100][497]LogStall: Shutdown complete.
+[2025.05.28-13.33.02:212][497]LogSlate: Window 'M_Snow' being destroyed
+[2025.05.28-13.33.03:326][497]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.28-13.33.03:326][497]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.03:327][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.04:395][497]LogSlate: Window 'CTINL1 - Unreal Editor' being destroyed
+[2025.05.28-13.33.04:404][497]LogWindowsTextInputMethodSystem: Activated input method: Svenska (Sverige) - (Keyboard).
+[2025.05.28-13.33.07:610][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2025.05.28-13.33.07:652][497]Cmd: QUIT_EDITOR
+[2025.05.28-13.33.07:654][497]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.28-13.33.07:690][498]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.28-13.33.07:698][498]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.28-13.33.07:699][498]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.28-13.33.07:732][498]LogWorld: UWorld::CleanupWorld for baragubben, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.07:732][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.07:840][498]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.28-13.33.07:881][498]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.28-13.33.08:339][498]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:339][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:352][498]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:354][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:361][498]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:362][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:371][498]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:372][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:379][498]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:381][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:394][498]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:395][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:404][498]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:404][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:412][498]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-13.33.08:412][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-13.33.08:475][498]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.28-13.33.08:503][498]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.28-13.33.08:504][498]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.28-13.33.08:504][498]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.28-13.33.09:421][498]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.28-13.33.09:421][498]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.28-13.33.09:421][498]LogAudio: Display: Audio Device unregistered from world 'baragubben'.
+[2025.05.28-13.33.09:421][498]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.28-13.33.09:423][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.28-13.33.09:434][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.28-13.33.09:523][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.28-13.33.09:524][498]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.28-13.33.09:571][498]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.28-13.33.09:573][498]LogExit: Preparing to exit.
+[2025.05.28-13.33.09:742][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2025.05.28-13.33.09:753][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:755][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:769][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:771][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:771][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:772][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:772][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:772][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:773][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:773][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:773][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:773][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:774][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:774][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:774][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:774][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:774][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:774][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:778][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:779][498]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.09:779][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-13.33.10:717][498]LogEditorDataStorage: Deinitializing
+[2025.05.28-13.33.11:902][498]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.28-13.33.13:004][498]LogExit: Editor shut down
+[2025.05.28-13.33.13:041][498]LogExit: Transaction tracking system shut down
+[2025.05.28-13.33.16:440][498]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 18.
+[2025.05.28-13.33.16:667][498]LogExit: Object subsystem successfully closed.
+[2025.05.28-13.33.16:714][498]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.28-13.33.19:143][498]LogMemoryProfiler: Shutdown
+[2025.05.28-13.33.19:144][498]LogNetworkingProfiler: Shutdown
+[2025.05.28-13.33.19:144][498]LoadingProfiler: Shutdown
+[2025.05.28-13.33.19:145][498]LogTimingProfiler: Shutdown
