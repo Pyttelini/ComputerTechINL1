@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\elinf\\onedrive\\skrivbord\\skola\\c++\\computertechinl1\\ctinl1\\source\\ctinl1\\ctinl1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\elinf\\onedrive\\skrivbord\\skola\\c++\\computertechinl1\\ctinl1\\intermediate\\build\\win64\\x64\\ctinl1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\elinf\\onedrive\\skrivbord\\skola\\c++\\computertechinl1\\ctinl1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ctinl1\\definitions.ctinl1.h",
+            "c:\\users\\elinf\\onedrive\\skrivbord\\skola\\c++\\computertechinl1\\ctinl1\\source\\ctinl1\\ctinl1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
