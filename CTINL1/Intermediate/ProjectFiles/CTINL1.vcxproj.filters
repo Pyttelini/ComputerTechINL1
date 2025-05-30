@@ -19,6 +19,9 @@
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
@@ -40,11 +43,11 @@
     <ClCompile Include="..\..\Source\CTINL1\CTINL1.h">
       <Filter>Source\CTINL1</Filter>
     </ClCompile>
-    <Filter Include="Source\CTINL1\Private">
-      <UniqueIdentifier>{9BEFED38-195E-3FB5-BB07-89AB73539764}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source\CTINL1\Public">
-      <UniqueIdentifier>{C27873CA-CB48-3103-8BC3-94B2579C5EB9}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="..\..\Source\CTINL1\SpecsSettings.cpp">
+      <Filter>Source\CTINL1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CTINL1\SpecsSettings.h">
+      <Filter>Source\CTINL1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
